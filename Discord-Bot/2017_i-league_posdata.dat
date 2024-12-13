@@ -1,0 +1,10622 @@
+(dp0
+I1
+(dp1
+S'Mohun Bagan'
+p2
+(lp3
+(VGoalkeeper
+p4
+VShilton Paul
+p5
+tp6
+a(VCentre-Back
+p7
+VKingsley Obumneme
+p8
+tp9
+a(VCentre-Back
+p10
+VKingshuk Debnath
+p11
+tp12
+a(VLeft-Back
+p13
+VRicky Lallawmawma
+p14
+tp15
+a(VRight-Back
+p16
+VGurjinder Kumar
+p17
+tp18
+a(VCentral Midfield
+p19
+VRaynier Fernandes
+p20
+tp21
+a(VCentral Midfield
+p22
+VShilton D'Silva
+p23
+tp24
+a(VRight Midfield
+p25
+VChesterpoul Lyngdoh
+p26
+tp27
+a(VAttacking Midfield
+p28
+VAnsumana Kromah
+p29
+tp30
+a(VLeft Winger
+p31
+VSony Nordé
+p32
+tp33
+a(VCentre-Forward
+p34
+VAser Pierrick Dipanda
+p35
+tp36
+asS'Minerva Academy'
+p37
+(lp38
+(VGoalkeeper
+p39
+VArshdeep Singh
+p40
+tp41
+a(VCentre-Back
+p42
+VSukhdev Singh
+p43
+tp44
+a(VCentre-Back
+p45
+VGuy Eric Dano
+p46
+tp47
+a(VLeft-Back
+p48
+VAbhishek Ambekar
+p49
+tp50
+a(VRight-Back
+p51
+VDeepak Devrani
+p52
+tp53
+a(VDefensive Midfield
+p54
+VToshiya Hosoe
+p55
+tp56
+a(VCentral Midfield
+p57
+VKassim Aidara
+p58
+tp59
+a(VAttacking Midfield
+p60
+VWilliam Opoku
+p61
+tp62
+a(VLeft Winger
+p63
+VChencho Gyeltshen
+p64
+tp65
+a(VRight Winger
+p66
+VBali Gagandeep
+p67
+tp68
+a(VCentre-Forward
+p69
+VGirik Khosla
+p70
+tp71
+assI2
+(dp72
+S'Shillong Lajong'
+p73
+(lp74
+(VGoalkeeper
+p75
+VPhurba Lachenpa
+p76
+tp77
+a(VCentre-Back
+p78
+VJoo-ho Oh
+p79
+tp80
+a(VCentre-Back
+p81
+VLawrence Doe
+p82
+tp83
+a(VLeft-Back
+p84
+VKynsai Khongsit
+p85
+tp86
+a(VRight-Back
+p87
+VRakesh Pradhan
+p88
+tp89
+a(VDefensive Midfield
+p90
+VDaniel Odafin
+p91
+tp92
+a(VDefensive Midfield
+p93
+VHardy Nongbri
+p94
+tp95
+a(VRight Midfield
+p96
+VRedeem Tlang
+p97
+tp98
+a(VLeft Midfield
+p99
+VAlen Deory
+p100
+tp101
+a(VAttacking Midfield
+p102
+VAiman Al Hagri
+p103
+tp104
+a(VCentre-Forward
+p105
+VSamuel Lalmuanpuia
+p106
+tp107
+asS'Gokulam FC'
+p108
+(lp109
+(VGoalkeeper
+p110
+VNikhil Bernard
+p111
+tp112
+a(VCentre-Back
+p113
+VEmmanuel Chigozie
+p114
+tp115
+a(VCentre-Back
+p116
+VDaniel Addo
+p117
+tp118
+a(VLeft-Back
+p119
+VProvat Lakra
+p120
+tp121
+a(VRight-Back
+p122
+VSushanth Mathew
+p123
+tp124
+a(VDefensive Midfield
+p125
+VMuhammed Rashid
+p126
+tp127
+a(VDefensive Midfield
+p128
+VArif Shaikh
+p129
+tp130
+a(VRight Midfield
+p131
+VMohammed Irshad
+p132
+tp133
+a(VLeft Midfield
+p134
+VLelo Mbele
+p135
+tp136
+a(VAttacking Midfield
+p137
+VKhaled Al Saleh
+p138
+tp139
+a(VCentre-Forward
+p140
+VKamo Bayi
+p141
+tp142
+assI3
+(dp143
+S'SC East Bengal'
+p144
+(lp145
+(VGoalkeeper
+p146
+VMirshad K. Michu
+p147
+tp148
+a(VCentre-Back
+p149
+VEduardo
+p150
+tp151
+a(VCentre-Back
+p152
+VSalam Singh
+p153
+tp154
+a(VLeft-Back
+p155
+VDeepak K
+p156
+tp157
+a(VRight-Back
+p158
+VMehtab Singh
+p159
+tp160
+a(VDefensive Midfield
+p161
+VBazie Armand
+p162
+tp163
+a(VCentral Midfield
+p164
+VMohammed Rafique
+p165
+tp166
+a(VRight Midfield
+p167
+VKatsumi Yusa
+p168
+tp169
+a(VLeft Midfield
+p170
+VBrandon Vanlalremdika
+p171
+tp172
+a(VAttacking Midfield
+p173
+VMahmoud Al Amenah
+p174
+tp175
+a(VCentre-Forward
+p176
+VWillis Plaza
+p177
+tp178
+asS'Aizawl FC'
+p179
+(lp180
+(VGoalkeeper
+p181
+VAvilash Paul
+p182
+tp183
+a(VCentre-Back
+p184
+VKareem Nurain
+p185
+tp186
+a(VCentre-Back
+p187
+VMasih Saighani
+p188
+tp189
+a(VLeft-Back
+p190
+VLalramhmunmawia
+p191
+tp192
+a(VRight-Back
+p193
+VLalrinzuala Khiangte
+p194
+tp195
+a(VCentral Midfield
+p196
+VAlfred Jaryan
+p197
+tp198
+a(VCentral Midfield
+p199
+VDavid Lalrinmuana
+p200
+tp201
+a(VRight Midfield
+p202
+VLéonce Dodoz
+p203
+tp204
+a(VLeft Midfield
+p205
+VLalmuankima H
+p206
+tp207
+a(VCentre-Forward
+p208
+VYugo Kobayashi
+p209
+tp210
+a(VCentre-Forward
+p211
+VWilliam Lalnunfela
+p212
+tp213
+assI4
+(dp214
+S'Indian Arrows'
+p215
+(lp216
+(VGoalkeeper
+p217
+VDheeraj Singh
+p218
+tp219
+a(VCentre-Back
+p220
+VAnwar Ali
+p221
+tp222
+a(VCentre-Back
+p223
+VJitendra Singh
+p224
+tp225
+a(VLeft-Back
+p226
+VSanjeev Stalin
+p227
+tp228
+a(VRight-Back
+p229
+VBoris Singh
+p230
+tp231
+a(VDefensive Midfield
+p232
+VSuresh Singh
+p233
+tp234
+a(VDefensive Midfield
+p235
+VAmarjit Singh
+p236
+tp237
+a(VAttacking Midfield
+p238
+VJeakson Singh
+p239
+tp240
+a(VLeft Winger
+p241
+VAniket Jadhav
+p242
+tp243
+a(VRight Winger
+p244
+VRahul KP
+p245
+tp246
+a(VCentre-Forward
+p247
+VEdmund Lalrindika
+p248
+tp249
+asS'Chennai City'
+p250
+(lp251
+(VGoalkeeper
+p252
+VUros Poljanec
+p253
+tp254
+a(VCentre-Back
+p255
+VDharmaraj Ravanan
+p256
+tp257
+a(VCentre-Back
+p258
+VVeniamin Shumeyko
+p259
+tp260
+a(VLeft-Back
+p261
+VPradeep Mohanraj
+p262
+tp263
+a(VRight-Back
+p264
+VHenry Monsang
+p265
+tp266
+a(VDefensive Midfield
+p267
+VLucky Kelechukwa
+p268
+tp269
+a(VDefensive Midfield
+p270
+VCharles Anandraj Lourdusamy
+p271
+tp272
+a(VRight Midfield
+p273
+VGaurav Bora
+p274
+tp275
+a(VLeft Midfield
+p276
+VEdwin Sydney Vanspaul
+p277
+tp278
+a(VAttacking Midfield
+p279
+VMichael Soosairaj
+p280
+tp281
+a(VCentre-Forward
+p282
+VJunior Joachim
+p283
+tp284
+assI5
+(dp285
+S'NEROCA FC'
+p286
+(lp287
+(VGoalkeeper
+p288
+VLalit Thapa
+p289
+tp290
+a(VCentre-Back
+p291
+VVarney K Kallon
+p292
+tp293
+a(VCentre-Back
+p294
+VGovin Singh
+p295
+tp296
+a(VLeft-Back
+p297
+VTondonba Singh
+p298
+tp299
+a(VRight-Back
+p300
+VAshok Singh
+p301
+tp302
+a(VDefensive Midfield
+p303
+VAryn Williams
+p304
+tp305
+a(VCentral Midfield
+p306
+VFabien Vorbe
+p307
+tp308
+a(VAttacking Midfield
+p309
+VAkhlidin Israilov
+p310
+tp311
+a(VLeft Winger
+p312
+VYumnam Singh
+p313
+tp314
+a(VRight Winger
+p315
+VSubash Singh
+p316
+tp317
+a(VCentre-Forward
+p318
+VFelix Chidi Odili
+p319
+tp320
+asS'Minerva Academy'
+p321
+(lp322
+(VGoalkeeper
+p323
+VArshdeep Singh
+p324
+tp325
+a(VCentre-Back
+p326
+VSukhdev Singh
+p327
+tp328
+a(VCentre-Back
+p329
+VGuy Eric Dano
+p330
+tp331
+a(VLeft-Back
+p332
+VAbhishek Ambekar
+p333
+tp334
+a(VRight-Back
+p335
+VDeepak Devrani
+p336
+tp337
+a(VDefensive Midfield
+p338
+VRandeep Singh
+p339
+tp340
+a(VDefensive Midfield
+p341
+VKassim Aidara
+p342
+tp343
+a(VAttacking Midfield
+p344
+VLago Dogbo
+p345
+tp346
+a(VLeft Winger
+p347
+VChencho Gyeltshen
+p348
+tp349
+a(VRight Winger
+p350
+VBali Gagandeep
+p351
+tp352
+a(VCentre-Forward
+p353
+VGirik Khosla
+p354
+tp355
+assI6
+(dp356
+S'Shillong Lajong'
+p357
+(lp358
+(VGoalkeeper
+p359
+VPhurba Lachenpa
+p360
+tp361
+a(VCentre-Back
+p362
+VJoo-ho Oh
+p363
+tp364
+a(VCentre-Back
+p365
+VLawrence Doe
+p366
+tp367
+a(VLeft-Back
+p368
+VNovin Gurung
+p369
+tp370
+a(VRight-Back
+p371
+VRakesh Pradhan
+p372
+tp373
+a(VDefensive Midfield
+p374
+VDaniel Odafin
+p375
+tp376
+a(VDefensive Midfield
+p377
+VHardy Nongbri
+p378
+tp379
+a(VRight Midfield
+p380
+VRedeem Tlang
+p381
+tp382
+a(VLeft Midfield
+p383
+VSamuel Lalmuanpuia
+p384
+tp385
+a(VAttacking Midfield
+p386
+VAlen Deory
+p387
+tp388
+a(VCentre-Forward
+p389
+VAbdoulaye Koffi
+p390
+tp391
+asS'Ch. Brothers'
+p392
+(lp393
+(VGoalkeeper
+p394
+VJames Kithan
+p395
+tp396
+a(VCentre-Back
+p397
+VMonday Osagie
+p398
+tp399
+a(VCentre-Back
+p400
+VPrecious Emuejeraye
+p401
+tp402
+a(VLeft-Back
+p403
+VBanpynkhrawnam Nongkhlaw
+p404
+tp405
+a(VRight-Back
+p406
+VSuraj Singh
+p407
+tp408
+a(VDefensive Midfield
+p409
+VDenechandra Meitei
+p410
+tp411
+a(VDefensive Midfield
+p412
+VPeter Omoduemuke
+p413
+tp414
+a(VRight Midfield
+p415
+VKarthik Govindswamy
+p416
+tp417
+a(VLeft Midfield
+p418
+VIsrail Gurung
+p419
+tp420
+a(VAttacking Midfield
+p421
+VAlber Gonsalves
+p422
+tp423
+a(VCentre-Forward
+p424
+VEric Obinna
+p425
+tp426
+assI7
+(dp427
+S'Mohun Bagan'
+p428
+(lp429
+(VGoalkeeper
+p430
+VShilton Paul
+p431
+tp432
+a(VCentre-Back
+p433
+VKingsley Obumneme
+p434
+tp435
+a(VCentre-Back
+p436
+VKingshuk Debnath
+p437
+tp438
+a(VLeft-Back
+p439
+VRicky Lallawmawma
+p440
+tp441
+a(VRight-Back
+p442
+VArijit Bagui
+p443
+tp444
+a(VDefensive Midfield
+p445
+VYuta Kinowaki
+p446
+tp447
+a(VDefensive Midfield
+p448
+VRaynier Fernandes
+p449
+tp450
+a(VRight Midfield
+p451
+VNaro Hari Shrestha
+p452
+tp453
+a(VLeft Midfield
+p454
+VSony Nordé
+p455
+tp456
+a(VAttacking Midfield
+p457
+VAnsumana Kromah
+p458
+tp459
+a(VCentre-Forward
+p460
+VAser Pierrick Dipanda
+p461
+tp462
+asS'SC East Bengal'
+p463
+(lp464
+(VGoalkeeper
+p465
+VLuis Barreto
+p466
+tp467
+a(VCentre-Back
+p468
+VEduardo
+p469
+tp470
+a(VCentre-Back
+p471
+VGurwinder Singh
+p472
+tp473
+a(VLeft-Back
+p474
+VDeepak K
+p475
+tp476
+a(VRight-Back
+p477
+VMehtab Singh
+p478
+tp479
+a(VDefensive Midfield
+p480
+VBazie Armand
+p481
+tp482
+a(VCentral Midfield
+p483
+VKatsumi Yusa
+p484
+tp485
+a(VCentral Midfield
+p486
+VMahmoud Al Amenah
+p487
+tp488
+a(VRight Midfield
+p489
+VDanmawia
+p490
+tp491
+a(VLeft Midfield
+p492
+VBrandon Vanlalremdika
+p493
+tp494
+a(VCentre-Forward
+p495
+VWillis Plaza
+p496
+tp497
+assI8
+(dp498
+S'Gokulam FC'
+p499
+(lp500
+(VGoalkeeper
+p501
+VNikhil Bernard
+p502
+tp503
+a(VCentre-Back
+p504
+VSantu Singh
+p505
+tp506
+a(VCentre-Back
+p507
+VDaniel Addo
+p508
+tp509
+a(VLeft-Back
+p510
+VProvat Lakra
+p511
+tp512
+a(VRight-Back
+p513
+VSushanth Mathew
+p514
+tp515
+a(VCentral Midfield
+p516
+VKhaled Al Saleh
+p517
+tp518
+a(VCentral Midfield
+p519
+VFrancis Ambane
+p520
+tp521
+a(VAttacking Midfield
+p522
+VVicky Meitei
+p523
+tp524
+a(VLeft Winger
+p525
+VRohit Mirza
+p526
+tp527
+a(VRight Winger
+p528
+VLelo Mbele
+p529
+tp530
+a(VCentre-Forward
+p531
+VKamo Bayi
+p532
+tp533
+asS'Chennai City'
+p534
+(lp535
+(VGoalkeeper
+p536
+VUros Poljanec
+p537
+tp538
+a(VCentre-Back
+p539
+VHenry Monsang
+p540
+tp541
+a(VCentre-Back
+p542
+VVeniamin Shumeyko
+p543
+tp544
+a(VLeft-Back
+p545
+VPradeep Mohanraj
+p546
+tp547
+a(VRight-Back
+p548
+VSebastian Thangmuansang
+p549
+tp550
+a(VCentral Midfield
+p551
+VCharles Anandraj Lourdusamy
+p552
+tp553
+a(VCentral Midfield
+p554
+VSinivasan Pandiyan
+p555
+tp556
+a(VRight Midfield
+p557
+VAlexander Romario Jesuraj
+p558
+tp559
+a(VLeft Midfield
+p560
+VEdwin Sydney Vanspaul
+p561
+tp562
+a(VAttacking Midfield
+p563
+VMichael Soosairaj
+p564
+tp565
+a(VCentre-Forward
+p566
+VJunior Joachim
+p567
+tp568
+assI9
+(dp569
+S'Indian Arrows'
+p570
+(lp571
+(VGoalkeeper
+p572
+VDheeraj Singh
+p573
+tp574
+a(VCentre-Back
+p575
+VJitendra Singh
+p576
+tp577
+a(VCentre-Back
+p578
+VDeepak Tangri
+p579
+tp580
+a(VLeft-Back
+p581
+VSanjeev Stalin
+p582
+tp583
+a(VRight-Back
+p584
+VBoris Singh
+p585
+tp586
+a(VDefensive Midfield
+p587
+VSuresh Singh
+p588
+tp589
+a(VDefensive Midfield
+p590
+VAmarjit Singh
+p591
+tp592
+a(VCentral Midfield
+p593
+VAbhijit Sarkar
+p594
+tp595
+a(VLeft Winger
+p596
+VAniket Jadhav
+p597
+tp598
+a(VRight Winger
+p599
+VRahul KP
+p600
+tp601
+a(VCentre-Forward
+p602
+VEdmund Lalrindika
+p603
+tp604
+asS'Minerva Academy'
+p605
+(lp606
+(VGoalkeeper
+p607
+VRakshit Dagar
+p608
+tp609
+a(VCentre-Back
+p610
+VSukhdev Singh
+p611
+tp612
+a(VCentre-Back
+p613
+VGuy Eric Dano
+p614
+tp615
+a(VLeft-Back
+p616
+VAbhishek Ambekar
+p617
+tp618
+a(VRight-Back
+p619
+VKamalpreet Singh
+p620
+tp621
+a(VDefensive Midfield
+p622
+VRandeep Singh
+p623
+tp624
+a(VCentral Midfield
+p625
+VKassim Aidara
+p626
+tp627
+a(VAttacking Midfield
+p628
+VWilliam Opoku
+p629
+tp630
+a(VLeft Winger
+p631
+VChencho Gyeltshen
+p632
+tp633
+a(VRight Winger
+p634
+VGirik Khosla
+p635
+tp636
+a(VCentre-Forward
+p637
+VLago Dogbo
+p638
+tp639
+assI10
+(dp640
+S'NEROCA FC'
+p641
+(lp642
+(VGoalkeeper
+p643
+VLalit Thapa
+p644
+tp645
+a(VCentre-Back
+p646
+VVarney K Kallon
+p647
+tp648
+a(VCentre-Back
+p649
+VTondonba Singh
+p650
+tp651
+a(VLeft-Back
+p652
+VGovin Singh
+p653
+tp654
+a(VRight-Back
+p655
+VThangjam Singh
+p656
+tp657
+a(VDefensive Midfield
+p658
+VFabien Vorbe
+p659
+tp660
+a(VDefensive Midfield
+p661
+VAryn Williams
+p662
+tp663
+a(VRight Midfield
+p664
+VFelix Chidi Odili
+p665
+tp666
+a(VLeft Midfield
+p667
+VYumnam Singh
+p668
+tp669
+a(VAttacking Midfield
+p670
+VPritam Singh
+p671
+tp672
+a(VCentre-Forward
+p673
+VSubash Singh
+p674
+tp675
+asS'Gokulam FC'
+p676
+(lp677
+(VGoalkeeper
+p678
+VNikhil Bernard
+p679
+tp680
+a(VCentre-Back
+p681
+VDaniel Addo
+p682
+tp683
+a(VCentre-Back
+p684
+VProvat Lakra
+p685
+tp686
+a(VLeft-Back
+p687
+VMohammed Salah
+p688
+tp689
+a(VRight-Back
+p690
+VGulom Urunov
+p691
+tp692
+a(VDefensive Midfield
+p693
+VSushanth Mathew
+p694
+tp695
+a(VDefensive Midfield
+p696
+VMuhammed Rashid
+p697
+tp698
+a(VRight Midfield
+p699
+VU. Jimshad
+p700
+tp701
+a(VLeft Midfield
+p702
+VLelo Mbele
+p703
+tp704
+a(VAttacking Midfield
+p705
+VKhaled Al Saleh
+p706
+tp707
+a(VCentre-Forward
+p708
+VMohammed Irshad
+p709
+tp710
+assI11
+(dp711
+S'Shillong Lajong'
+p712
+(lp713
+(VGoalkeeper
+p714
+VPhurba Lachenpa
+p715
+tp716
+a(VCentre-Back
+p717
+VJoo-ho Oh
+p718
+tp719
+a(VCentre-Back
+p720
+VLawrence Doe
+p721
+tp722
+a(VLeft-Back
+p723
+VRakesh Pradhan
+p724
+tp725
+a(VRight-Back
+p726
+VNovin Gurung
+p727
+tp728
+a(VDefensive Midfield
+p729
+VDaniel Odafin
+p730
+tp731
+a(VDefensive Midfield
+p732
+VRocus Lamare
+p733
+tp734
+a(VRight Midfield
+p735
+VRedeem Tlang
+p736
+tp737
+a(VLeft Midfield
+p738
+VHardy Nongbri
+p739
+tp740
+a(VAttacking Midfield
+p741
+VAlen Deory
+p742
+tp743
+a(VCentre-Forward
+p744
+VSamuel Lalmuanpuia
+p745
+tp746
+asS'SC East Bengal'
+p747
+(lp748
+(VGoalkeeper
+p749
+VMirshad K. Michu
+p750
+tp751
+a(VCentre-Back
+p752
+VArnab Mondal
+p753
+tp754
+a(VCentre-Back
+p755
+VEduardo
+p756
+tp757
+a(VLeft-Back
+p758
+VSalam Singh
+p759
+tp760
+a(VRight-Back
+p761
+VPrakash Sarkar
+p762
+tp763
+a(VDefensive Midfield
+p764
+VBazie Armand
+p765
+tp766
+a(VDefensive Midfield
+p767
+VCavin Lobo
+p768
+tp769
+a(VRight Midfield
+p770
+VKatsumi Yusa
+p771
+tp772
+a(VLeft Midfield
+p773
+VDanmawia
+p774
+tp775
+a(VAttacking Midfield
+p776
+VMahmoud Al Amenah
+p777
+tp778
+a(VCentre-Forward
+p779
+VWillis Plaza
+p780
+tp781
+assI12
+(dp782
+S'Mohun Bagan'
+p783
+(lp784
+(VGoalkeeper
+p785
+VShilton Paul
+p786
+tp787
+a(VCentre-Back
+p788
+VKingsley Obumneme
+p789
+tp790
+a(VCentre-Back
+p791
+VKingshuk Debnath
+p792
+tp793
+a(VLeft-Back
+p794
+VRicky Lallawmawma
+p795
+tp796
+a(VRight-Back
+p797
+VArijit Bagui
+p798
+tp799
+a(VDefensive Midfield
+p800
+VYuta Kinowaki
+p801
+tp802
+a(VDefensive Midfield
+p803
+VRaynier Fernandes
+p804
+tp805
+a(VRight Midfield
+p806
+VSk Faiaz
+p807
+tp808
+a(VLeft Midfield
+p809
+VSony Nordé
+p810
+tp811
+a(VAttacking Midfield
+p812
+VAnsumana Kromah
+p813
+tp814
+a(VCentre-Forward
+p815
+VAser Pierrick Dipanda
+p816
+tp817
+asS'Ch. Brothers'
+p818
+(lp819
+(VGoalkeeper
+p820
+VJames Kithan
+p821
+tp822
+a(VCentre-Back
+p823
+VMonday Osagie
+p824
+tp825
+a(VCentre-Back
+p826
+VPrecious Emuejeraye
+p827
+tp828
+a(VLeft-Back
+p829
+VBanpynkhrawnam Nongkhlaw
+p830
+tp831
+a(VRight-Back
+p832
+VDenechandra Meitei
+p833
+tp834
+a(VDefensive Midfield
+p835
+VPeter Omoduemuke
+p836
+tp837
+a(VDefensive Midfield
+p838
+VNicholas Fernandes
+p839
+tp840
+a(VRight Midfield
+p841
+VKarthik Govindswamy
+p842
+tp843
+a(VLeft Midfield
+p844
+VJoshuah Vaz
+p845
+tp846
+a(VCentre-Forward
+p847
+VUttam Rai
+p848
+tp849
+a(VCentre-Forward
+p850
+VEric Obinna
+p851
+tp852
+assI13
+(dp853
+S'Chennai City'
+p854
+(lp855
+(VGoalkeeper
+p856
+VUros Poljanec
+p857
+tp858
+a(VCentre-Back
+p859
+VHenry Monsang
+p860
+tp861
+a(VCentre-Back
+p862
+VVeniamin Shumeyko
+p863
+tp864
+a(VLeft-Back
+p865
+VSebastian Thangmuansang
+p866
+tp867
+a(VRight-Back
+p868
+VPradeep Mohanraj
+p869
+tp870
+a(VCentral Midfield
+p871
+VSinivasan Pandiyan
+p872
+tp873
+a(VCentral Midfield
+p874
+VMichael Soosairaj
+p875
+tp876
+a(VRight Midfield
+p877
+VCharles Anandraj Lourdusamy
+p878
+tp879
+a(VLeft Midfield
+p880
+VEdwin Sydney Vanspaul
+p881
+tp882
+a(VCentre-Forward
+p883
+VJunior Joachim
+p884
+tp885
+a(VCentre-Forward
+p886
+VMurilo Almeida
+p887
+tp888
+asS'Minerva Academy'
+p889
+(lp890
+(VGoalkeeper
+p891
+VArshdeep Singh
+p892
+tp893
+a(VCentre-Back
+p894
+VGuy Eric Dano
+p895
+tp896
+a(VCentre-Back
+p897
+VKassim Aidara
+p898
+tp899
+a(VLeft-Back
+p900
+VAbhishek Ambekar
+p901
+tp902
+a(VRight-Back
+p903
+VKamalpreet Singh
+p904
+tp905
+a(VCentral Midfield
+p906
+VSouvik Das
+p907
+tp908
+a(VCentral Midfield
+p909
+VLago Dogbo
+p910
+tp911
+a(VRight Midfield
+p912
+VGirik Khosla
+p913
+tp914
+a(VLeft Midfield
+p915
+VChencho Gyeltshen
+p916
+tp917
+a(VAttacking Midfield
+p918
+VWilliam Opoku
+p919
+tp920
+a(VCentre-Forward
+p921
+VBali Gagandeep
+p922
+tp923
+assI14
+(dp924
+S'Ch. Brothers'
+p925
+(lp926
+(VGoalkeeper
+p927
+VJames Kithan
+p928
+tp929
+a(VCentre-Back
+p930
+VSuraj Singh
+p931
+tp932
+a(VCentre-Back
+p933
+VMonday Osagie
+p934
+tp935
+a(VLeft-Back
+p936
+VDenechandra Meitei
+p937
+tp938
+a(VRight-Back
+p939
+VBanpynkhrawnam Nongkhlaw
+p940
+tp941
+a(VCentral Midfield
+p942
+VJoshuah Vaz
+p943
+tp944
+a(VCentral Midfield
+p945
+VPeter Omoduemuke
+p946
+tp947
+a(VRight Midfield
+p948
+VIsrail Gurung
+p949
+tp950
+a(VLeft Midfield
+p951
+VNicholas Fernandes
+p952
+tp953
+a(VCentre-Forward
+p954
+VUttam Rai
+p955
+tp956
+a(VCentre-Forward
+p957
+VEric Obinna
+p958
+tp959
+asS'Aizawl FC'
+p960
+(lp961
+(VGoalkeeper
+p962
+VAvilash Paul
+p963
+tp964
+a(VCentre-Back
+p965
+VKareem Nurain
+p966
+tp967
+a(VCentre-Back
+p968
+VMasih Saighani
+p969
+tp970
+a(VLeft-Back
+p971
+VLalramhmunmawia
+p972
+tp973
+a(VRight-Back
+p974
+VLalrinzuala Khiangte
+p975
+tp976
+a(VDefensive Midfield
+p977
+VAlfred Jaryan
+p978
+tp979
+a(VDefensive Midfield
+p980
+VPuitea
+p981
+tp982
+a(VDefensive Midfield
+p983
+VDavid Lalrinmuana
+p984
+tp985
+a(VAttacking Midfield
+p986
+VLalmuankima H
+p987
+tp988
+a(VAttacking Midfield
+p989
+VLéonce Dodoz
+p990
+tp991
+a(VCentre-Forward
+p992
+VYugo Kobayashi
+p993
+tp994
+assI15
+(dp995
+S'Mohun Bagan'
+p996
+(lp997
+(VGoalkeeper
+p998
+VShilton Paul
+p999
+tp1000
+a(VCentre-Back
+p1001
+VKingsley Obumneme
+p1002
+tp1003
+a(VCentre-Back
+p1004
+VKingshuk Debnath
+p1005
+tp1006
+a(VLeft-Back
+p1007
+VRicky Lallawmawma
+p1008
+tp1009
+a(VRight-Back
+p1010
+VAbhishek Das
+p1011
+tp1012
+a(VDefensive Midfield
+p1013
+VRaynier Fernandes
+p1014
+tp1015
+a(VDefensive Midfield
+p1016
+VShilton D'Silva
+p1017
+tp1018
+a(VRight Midfield
+p1019
+VSk Faiaz
+p1020
+tp1021
+a(VLeft Midfield
+p1022
+VNaro Hari Shrestha
+p1023
+tp1024
+a(VAttacking Midfield
+p1025
+VDipendu Dowary
+p1026
+tp1027
+a(VCentre-Forward
+p1028
+VAser Pierrick Dipanda
+p1029
+tp1030
+asS'Shillong Lajong'
+p1031
+(lp1032
+(VGoalkeeper
+p1033
+VPhurba Lachenpa
+p1034
+tp1035
+a(VCentre-Back
+p1036
+VJoo-ho Oh
+p1037
+tp1038
+a(VCentre-Back
+p1039
+VLawrence Doe
+p1040
+tp1041
+a(VLeft-Back
+p1042
+VNovin Gurung
+p1043
+tp1044
+a(VRight-Back
+p1045
+VRakesh Pradhan
+p1046
+tp1047
+a(VDefensive Midfield
+p1048
+VDaniel Odafin
+p1049
+tp1050
+a(VCentral Midfield
+p1051
+VHardy Nongbri
+p1052
+tp1053
+a(VRight Midfield
+p1054
+VRedeem Tlang
+p1055
+tp1056
+a(VLeft Midfield
+p1057
+VAiman Al Hagri
+p1058
+tp1059
+a(VAttacking Midfield
+p1060
+VAlen Deory
+p1061
+tp1062
+a(VCentre-Forward
+p1063
+VSamuel Lalmuanpuia
+p1064
+tp1065
+assI16
+(dp1066
+S'NEROCA FC'
+p1067
+(lp1068
+(VGoalkeeper
+p1069
+VLalit Thapa
+p1070
+tp1071
+a(VCentre-Back
+p1072
+VVarney K Kallon
+p1073
+tp1074
+a(VCentre-Back
+p1075
+VGovin Singh
+p1076
+tp1077
+a(VLeft-Back
+p1078
+VTondonba Singh
+p1079
+tp1080
+a(VRight-Back
+p1081
+VThangjam Singh
+p1082
+tp1083
+a(VDefensive Midfield
+p1084
+VFabien Vorbe
+p1085
+tp1086
+a(VDefensive Midfield
+p1087
+VAryn Williams
+p1088
+tp1089
+a(VRight Midfield
+p1090
+VFelix Chidi Odili
+p1091
+tp1092
+a(VLeft Midfield
+p1093
+VPritam Singh
+p1094
+tp1095
+a(VAttacking Midfield
+p1096
+VYumnam Singh
+p1097
+tp1098
+a(VCentre-Forward
+p1099
+VSubash Singh
+p1100
+tp1101
+asS'Chennai City'
+p1102
+(lp1103
+(VGoalkeeper
+p1104
+VUros Poljanec
+p1105
+tp1106
+a(VCentre-Back
+p1107
+VHenry Monsang
+p1108
+tp1109
+a(VCentre-Back
+p1110
+VVeniamin Shumeyko
+p1111
+tp1112
+a(VLeft-Back
+p1113
+VPradeep Mohanraj
+p1114
+tp1115
+a(VRight-Back
+p1116
+VSebastian Thangmuansang
+p1117
+tp1118
+a(VCentral Midfield
+p1119
+VSinivasan Pandiyan
+p1120
+tp1121
+a(VCentral Midfield
+p1122
+VMichael Soosairaj
+p1123
+tp1124
+a(VRight Midfield
+p1125
+VCharles Anandraj Lourdusamy
+p1126
+tp1127
+a(VLeft Midfield
+p1128
+VEdwin Sydney Vanspaul
+p1129
+tp1130
+a(VCentre-Forward
+p1131
+VMurilo Almeida
+p1132
+tp1133
+a(VCentre-Forward
+p1134
+VJunior Joachim
+p1135
+tp1136
+assI17
+(dp1137
+S'Ch. Brothers'
+p1138
+(lp1139
+(VGoalkeeper
+p1140
+VJames Kithan
+p1141
+tp1142
+a(VCentre-Back
+p1143
+VSuraj Singh
+p1144
+tp1145
+a(VCentre-Back
+p1146
+VMonday Osagie
+p1147
+tp1148
+a(VLeft-Back
+p1149
+VDenechandra Meitei
+p1150
+tp1151
+a(VRight-Back
+p1152
+VBanpynkhrawnam Nongkhlaw
+p1153
+tp1154
+a(VDefensive Midfield
+p1155
+VKalu Ogba
+p1156
+tp1157
+a(VDefensive Midfield
+p1158
+VNicholas Fernandes
+p1159
+tp1160
+a(VRight Midfield
+p1161
+VIsrail Gurung
+p1162
+tp1163
+a(VLeft Midfield
+p1164
+VUttam Rai
+p1165
+tp1166
+a(VAttacking Midfield
+p1167
+VPeter Omoduemuke
+p1168
+tp1169
+a(VCentre-Forward
+p1170
+VEric Obinna
+p1171
+tp1172
+asS'SC East Bengal'
+p1173
+(lp1174
+(VGoalkeeper
+p1175
+VMirshad K. Michu
+p1176
+tp1177
+a(VCentre-Back
+p1178
+VArnab Mondal
+p1179
+tp1180
+a(VCentre-Back
+p1181
+VEduardo
+p1182
+tp1183
+a(VLeft-Back
+p1184
+VSalam Singh
+p1185
+tp1186
+a(VRight-Back
+p1187
+VPrakash Sarkar
+p1188
+tp1189
+a(VDefensive Midfield
+p1190
+VBazie Armand
+p1191
+tp1192
+a(VDefensive Midfield
+p1193
+VCavin Lobo
+p1194
+tp1195
+a(VRight Midfield
+p1196
+VKatsumi Yusa
+p1197
+tp1198
+a(VLeft Midfield
+p1199
+VDanmawia
+p1200
+tp1201
+a(VAttacking Midfield
+p1202
+VMahmoud Al Amenah
+p1203
+tp1204
+a(VCentre-Forward
+p1205
+VWillis Plaza
+p1206
+tp1207
+assI18
+(dp1208
+S'Shillong Lajong'
+p1209
+(lp1210
+(VGoalkeeper
+p1211
+VPhurba Lachenpa
+p1212
+tp1213
+a(VCentre-Back
+p1214
+VJoo-ho Oh
+p1215
+tp1216
+a(VCentre-Back
+p1217
+VLawrence Doe
+p1218
+tp1219
+a(VCentre-Back
+p1220
+VKynsai Khongsit
+p1221
+tp1222
+a(VLeft-Back
+p1223
+VRakesh Pradhan
+p1224
+tp1225
+a(VRight-Back
+p1226
+VNovin Gurung
+p1227
+tp1228
+a(VDefensive Midfield
+p1229
+VDaniel Odafin
+p1230
+tp1231
+a(VDefensive Midfield
+p1232
+VAiman Al Hagri
+p1233
+tp1234
+a(VRight Midfield
+p1235
+VHardy Nongbri
+p1236
+tp1237
+a(VLeft Midfield
+p1238
+VRedeem Tlang
+p1239
+tp1240
+a(VCentre-Forward
+p1241
+VShaiborlang Kharpan
+p1242
+tp1243
+asS'Aizawl FC'
+p1244
+(lp1245
+(VGoalkeeper
+p1246
+VAvilash Paul
+p1247
+tp1248
+a(VCentre-Back
+p1249
+VKareem Nurain
+p1250
+tp1251
+a(VCentre-Back
+p1252
+VMasih Saighani
+p1253
+tp1254
+a(VLeft-Back
+p1255
+VLalramhmunmawia
+p1256
+tp1257
+a(VRight-Back
+p1258
+VLalrinzuala Khiangte
+p1259
+tp1260
+a(VDefensive Midfield
+p1261
+VH. Lalbiakthanga
+p1262
+tp1263
+a(VDefensive Midfield
+p1264
+VAlfred Jaryan
+p1265
+tp1266
+a(VRight Midfield
+p1267
+VLalmuankima H
+p1268
+tp1269
+a(VLeft Midfield
+p1270
+VLéonce Dodoz
+p1271
+tp1272
+a(VAttacking Midfield
+p1273
+VPuitea
+p1274
+tp1275
+a(VCentre-Forward
+p1276
+VYugo Kobayashi
+p1277
+tp1278
+assI19
+(dp1279
+S'Indian Arrows'
+p1280
+(lp1281
+(VGoalkeeper
+p1282
+VDheeraj Singh
+p1283
+tp1284
+a(VCentre-Back
+p1285
+VJitendra Singh
+p1286
+tp1287
+a(VCentre-Back
+p1288
+VDeepak Tangri
+p1289
+tp1290
+a(VLeft-Back
+p1291
+VSanjeev Stalin
+p1292
+tp1293
+a(VRight-Back
+p1294
+VBoris Singh
+p1295
+tp1296
+a(VCentral Midfield
+p1297
+VAmarjit Singh
+p1298
+tp1299
+a(VCentral Midfield
+p1300
+VAbhishek Halder
+p1301
+tp1302
+a(VRight Midfield
+p1303
+VRahul KP
+p1304
+tp1305
+a(VLeft Midfield
+p1306
+VSuresh Singh
+p1307
+tp1308
+a(VAttacking Midfield
+p1309
+VRahim Ali
+p1310
+tp1311
+a(VCentre-Forward
+p1312
+VEdmund Lalrindika
+p1313
+tp1314
+asS'Minerva Academy'
+p1315
+(lp1316
+(VGoalkeeper
+p1317
+VRakshit Dagar
+p1318
+tp1319
+a(VCentre-Back
+p1320
+VSukhdev Singh
+p1321
+tp1322
+a(VCentre-Back
+p1323
+VGuy Eric Dano
+p1324
+tp1325
+a(VLeft-Back
+p1326
+VAbhishek Ambekar
+p1327
+tp1328
+a(VRight-Back
+p1329
+VKamalpreet Singh
+p1330
+tp1331
+a(VCentral Midfield
+p1332
+VAmandeep Singh
+p1333
+tp1334
+a(VCentral Midfield
+p1335
+VKassim Aidara
+p1336
+tp1337
+a(VRight Midfield
+p1338
+VGirik Khosla
+p1339
+tp1340
+a(VLeft Midfield
+p1341
+VChencho Gyeltshen
+p1342
+tp1343
+a(VAttacking Midfield
+p1344
+VWilliam Opoku
+p1345
+tp1346
+a(VCentre-Forward
+p1347
+VBali Gagandeep
+p1348
+tp1349
+assI20
+(dp1350
+S'Mohun Bagan'
+p1351
+(lp1352
+(VGoalkeeper
+p1353
+VShilton Paul
+p1354
+tp1355
+a(VCentre-Back
+p1356
+VRana Gharami
+p1357
+tp1358
+a(VCentre-Back
+p1359
+VKingshuk Debnath
+p1360
+tp1361
+a(VLeft-Back
+p1362
+VRicky Lallawmawma
+p1363
+tp1364
+a(VRight-Back
+p1365
+VAbhishek Das
+p1366
+tp1367
+a(VDefensive Midfield
+p1368
+VRaynier Fernandes
+p1369
+tp1370
+a(VDefensive Midfield
+p1371
+VShilton D'Silva
+p1372
+tp1373
+a(VRight Midfield
+p1374
+VSk Faiaz
+p1375
+tp1376
+a(VLeft Midfield
+p1377
+VSony Nordé
+p1378
+tp1379
+a(VAttacking Midfield
+p1380
+VAnsumana Kromah
+p1381
+tp1382
+a(VCentre-Forward
+p1383
+VAser Pierrick Dipanda
+p1384
+tp1385
+asS'NEROCA FC'
+p1386
+(lp1387
+(VGoalkeeper
+p1388
+VLalit Thapa
+p1389
+tp1390
+a(VCentre-Back
+p1391
+VVarney K Kallon
+p1392
+tp1393
+a(VCentre-Back
+p1394
+VTondonba Singh
+p1395
+tp1396
+a(VLeft-Back
+p1397
+VThangjam Singh
+p1398
+tp1399
+a(VRight-Back
+p1400
+VGovin Singh
+p1401
+tp1402
+a(VDefensive Midfield
+p1403
+VFabien Vorbe
+p1404
+tp1405
+a(VDefensive Midfield
+p1406
+VAryn Williams
+p1407
+tp1408
+a(VRight Midfield
+p1409
+VSubash Singh
+p1410
+tp1411
+a(VLeft Midfield
+p1412
+VYumnam Singh
+p1413
+tp1414
+a(VAttacking Midfield
+p1415
+VAkhlidin Israilov
+p1416
+tp1417
+a(VCentre-Forward
+p1418
+VFelix Chidi Odili
+p1419
+tp1420
+assI21
+(dp1421
+S'Ch. Brothers'
+p1422
+(lp1423
+(VGoalkeeper
+p1424
+VJames Kithan
+p1425
+tp1426
+a(VCentre-Back
+p1427
+VSuraj Singh
+p1428
+tp1429
+a(VCentre-Back
+p1430
+VMonday Osagie
+p1431
+tp1432
+a(VLeft-Back
+p1433
+VBanpynkhrawnam Nongkhlaw
+p1434
+tp1435
+a(VRight-Back
+p1436
+VIsrail Gurung
+p1437
+tp1438
+a(VCentral Midfield
+p1439
+VKalu Ogba
+p1440
+tp1441
+a(VCentral Midfield
+p1442
+VPeter Omoduemuke
+p1443
+tp1444
+a(VRight Midfield
+p1445
+VNicholas Fernandes
+p1446
+tp1447
+a(VLeft Midfield
+p1448
+VAlber Gonsalves
+p1449
+tp1450
+a(VCentre-Forward
+p1451
+VUttam Rai
+p1452
+tp1453
+a(VCentre-Forward
+p1454
+VEric Obinna
+p1455
+tp1456
+asS'Chennai City'
+p1457
+(lp1458
+(VGoalkeeper
+p1459
+VUros Poljanec
+p1460
+tp1461
+a(VCentre-Back
+p1462
+VDharmaraj Ravanan
+p1463
+tp1464
+a(VCentre-Back
+p1465
+VVeniamin Shumeyko
+p1466
+tp1467
+a(VLeft-Back
+p1468
+VPradeep Mohanraj
+p1469
+tp1470
+a(VRight-Back
+p1471
+VSebastian Thangmuansang
+p1472
+tp1473
+a(VCentral Midfield
+p1474
+VSinivasan Pandiyan
+p1475
+tp1476
+a(VCentral Midfield
+p1477
+VAlexander Romario Jesuraj
+p1478
+tp1479
+a(VRight Midfield
+p1480
+VMichael Soosairaj
+p1481
+tp1482
+a(VLeft Midfield
+p1483
+VEdwin Sydney Vanspaul
+p1484
+tp1485
+a(VCentre-Forward
+p1486
+VMurilo Almeida
+p1487
+tp1488
+a(VCentre-Forward
+p1489
+VJunior Joachim
+p1490
+tp1491
+assI22
+(dp1492
+S'Indian Arrows'
+p1493
+(lp1494
+(VGoalkeeper
+p1495
+VDheeraj Singh
+p1496
+tp1497
+a(VCentre-Back
+p1498
+VAnwar Ali
+p1499
+tp1500
+a(VCentre-Back
+p1501
+VDeepak Tangri
+p1502
+tp1503
+a(VLeft-Back
+p1504
+VSanjeev Stalin
+p1505
+tp1506
+a(VRight-Back
+p1507
+VBoris Singh
+p1508
+tp1509
+a(VDefensive Midfield
+p1510
+VAmarjit Singh
+p1511
+tp1512
+a(VDefensive Midfield
+p1513
+VJeakson Singh
+p1514
+tp1515
+a(VRight Midfield
+p1516
+VRahul KP
+p1517
+tp1518
+a(VLeft Midfield
+p1519
+VAniket Jadhav
+p1520
+tp1521
+a(VAttacking Midfield
+p1522
+VAbhishek Halder
+p1523
+tp1524
+a(VCentre-Forward
+p1525
+VEdmund Lalrindika
+p1526
+tp1527
+asS'Gokulam FC'
+p1528
+(lp1529
+(VGoalkeeper
+p1530
+VBilal Khan
+p1531
+tp1532
+a(VCentre-Back
+p1533
+VEmmanuel Chigozie
+p1534
+tp1535
+a(VCentre-Back
+p1536
+VDaniel Addo
+p1537
+tp1538
+a(VLeft-Back
+p1539
+VSantu Singh
+p1540
+tp1541
+a(VRight-Back
+p1542
+VProvat Lakra
+p1543
+tp1544
+a(VDefensive Midfield
+p1545
+VMuhammed Rashid
+p1546
+tp1547
+a(VDefensive Midfield
+p1548
+VArjun Jayaraj
+p1549
+tp1550
+a(VRight Midfield
+p1551
+VRohit Mirza
+p1552
+tp1553
+a(VLeft Midfield
+p1554
+VVicky Meitei
+p1555
+tp1556
+a(VAttacking Midfield
+p1557
+VUsman Ashik
+p1558
+tp1559
+a(VCentre-Forward
+p1560
+VKhaled Al Saleh
+p1561
+tp1562
+assI23
+(dp1563
+S'SC East Bengal'
+p1564
+(lp1565
+(VGoalkeeper
+p1566
+VLuis Barreto
+p1567
+tp1568
+a(VCentre-Back
+p1569
+VArnab Mondal
+p1570
+tp1571
+a(VCentre-Back
+p1572
+VEduardo
+p1573
+tp1574
+a(VLeft-Back
+p1575
+VSalam Singh
+p1576
+tp1577
+a(VRight-Back
+p1578
+VLalramchullova
+p1579
+tp1580
+a(VCentral Midfield
+p1581
+VPrakash Sarkar
+p1582
+tp1583
+a(VCentral Midfield
+p1584
+VMahmoud Al Amenah
+p1585
+tp1586
+a(VRight Midfield
+p1587
+VKatsumi Yusa
+p1588
+tp1589
+a(VLeft Midfield
+p1590
+VDanmawia
+p1591
+tp1592
+a(VCentre-Forward
+p1593
+VCharles De Souza
+p1594
+tp1595
+a(VCentre-Forward
+p1596
+VWillis Plaza
+p1597
+tp1598
+asS'Chennai City'
+p1599
+(lp1600
+(VGoalkeeper
+p1601
+VUros Poljanec
+p1602
+tp1603
+a(VCentre-Back
+p1604
+VDharmaraj Ravanan
+p1605
+tp1606
+a(VCentre-Back
+p1607
+VVeniamin Shumeyko
+p1608
+tp1609
+a(VLeft-Back
+p1610
+VCharles Anandraj Lourdusamy
+p1611
+tp1612
+a(VRight-Back
+p1613
+VSebastian Thangmuansang
+p1614
+tp1615
+a(VDefensive Midfield
+p1616
+VEdwin Sydney Vanspaul
+p1617
+tp1618
+a(VDefensive Midfield
+p1619
+VSinivasan Pandiyan
+p1620
+tp1621
+a(VRight Midfield
+p1622
+VAlexander Romario Jesuraj
+p1623
+tp1624
+a(VLeft Midfield
+p1625
+VPradeep Mohanraj
+p1626
+tp1627
+a(VAttacking Midfield
+p1628
+VMichael Soosairaj
+p1629
+tp1630
+a(VCentre-Forward
+p1631
+VJunior Joachim
+p1632
+tp1633
+assI24
+(dp1634
+S'Shillong Lajong'
+p1635
+(lp1636
+(VGoalkeeper
+p1637
+VPhurba Lachenpa
+p1638
+tp1639
+a(VCentre-Back
+p1640
+VJoo-ho Oh
+p1641
+tp1642
+a(VCentre-Back
+p1643
+VLawrence Doe
+p1644
+tp1645
+a(VLeft-Back
+p1646
+VKynsai Khongsit
+p1647
+tp1648
+a(VRight-Back
+p1649
+VRakesh Pradhan
+p1650
+tp1651
+a(VDefensive Midfield
+p1652
+VDaniel Odafin
+p1653
+tp1654
+a(VDefensive Midfield
+p1655
+VHardy Nongbri
+p1656
+tp1657
+a(VRight Midfield
+p1658
+VNovin Gurung
+p1659
+tp1660
+a(VLeft Midfield
+p1661
+VRedeem Tlang
+p1662
+tp1663
+a(VAttacking Midfield
+p1664
+VAiman Al Hagri
+p1665
+tp1666
+a(VCentre-Forward
+p1667
+VSamuel Lalmuanpuia
+p1668
+tp1669
+asS'NEROCA FC'
+p1670
+(lp1671
+(VGoalkeeper
+p1672
+VLalit Thapa
+p1673
+tp1674
+a(VCentre-Back
+p1675
+VVarney K Kallon
+p1676
+tp1677
+a(VCentre-Back
+p1678
+VGovin Singh
+p1679
+tp1680
+a(VLeft-Back
+p1681
+VTondonba Singh
+p1682
+tp1683
+a(VRight-Back
+p1684
+VThangjam Singh
+p1685
+tp1686
+a(VDefensive Midfield
+p1687
+VFabien Vorbe
+p1688
+tp1689
+a(VDefensive Midfield
+p1690
+VAryn Williams
+p1691
+tp1692
+a(VRight Midfield
+p1693
+VFelix Chidi Odili
+p1694
+tp1695
+a(VLeft Midfield
+p1696
+VYumnam Singh
+p1697
+tp1698
+a(VAttacking Midfield
+p1699
+VAkhlidin Israilov
+p1700
+tp1701
+a(VCentre-Forward
+p1702
+VSubash Singh
+p1703
+tp1704
+assI25
+(dp1705
+S'Indian Arrows'
+p1706
+(lp1707
+(VGoalkeeper
+p1708
+VDheeraj Singh
+p1709
+tp1710
+a(VCentre-Back
+p1711
+VAnwar Ali
+p1712
+tp1713
+a(VCentre-Back
+p1714
+VJitendra Singh
+p1715
+tp1716
+a(VLeft-Back
+p1717
+VSanjeev Stalin
+p1718
+tp1719
+a(VRight-Back
+p1720
+VAsish Rai
+p1721
+tp1722
+a(VCentral Midfield
+p1723
+VSuresh Singh
+p1724
+tp1725
+a(VCentral Midfield
+p1726
+VAmarjit Singh
+p1727
+tp1728
+a(VRight Midfield
+p1729
+VNinthoi Meetei
+p1730
+tp1731
+a(VLeft Midfield
+p1732
+VJeakson Singh
+p1733
+tp1734
+a(VCentre-Forward
+p1735
+VAbhijit Sarkar
+p1736
+tp1737
+a(VCentre-Forward
+p1738
+VRahim Ali
+p1739
+tp1740
+asS'Shillong Lajong'
+p1741
+(lp1742
+(VGoalkeeper
+p1743
+VPhurba Lachenpa
+p1744
+tp1745
+a(VCentre-Back
+p1746
+VJoo-ho Oh
+p1747
+tp1748
+a(VCentre-Back
+p1749
+VLawrence Doe
+p1750
+tp1751
+a(VLeft-Back
+p1752
+VRakesh Pradhan
+p1753
+tp1754
+a(VRight-Back
+p1755
+VKynsai Khongsit
+p1756
+tp1757
+a(VDefensive Midfield
+p1758
+VDaniel Odafin
+p1759
+tp1760
+a(VDefensive Midfield
+p1761
+VHardy Nongbri
+p1762
+tp1763
+a(VRight Midfield
+p1764
+VNovin Gurung
+p1765
+tp1766
+a(VLeft Midfield
+p1767
+VAiman Al Hagri
+p1768
+tp1769
+a(VAttacking Midfield
+p1770
+VSamuel Lalmuanpuia
+p1771
+tp1772
+a(VCentre-Forward
+p1773
+VAbdoulaye Koffi
+p1774
+tp1775
+assI26
+(dp1776
+S'Aizawl FC'
+p1777
+(lp1778
+(VGoalkeeper
+p1779
+VAvilash Paul
+p1780
+tp1781
+a(VCentre-Back
+p1782
+VKareem Nurain
+p1783
+tp1784
+a(VCentre-Back
+p1785
+VMasih Saighani
+p1786
+tp1787
+a(VLeft-Back
+p1788
+VLalramhmunmawia
+p1789
+tp1790
+a(VRight-Back
+p1791
+VLaldinliana Renthlei
+p1792
+tp1793
+a(VDefensive Midfield
+p1794
+VAlfred Jaryan
+p1795
+tp1796
+a(VDefensive Midfield
+p1797
+VDavid Lalrinmuana
+p1798
+tp1799
+a(VRight Midfield
+p1800
+VLéonce Dodoz
+p1801
+tp1802
+a(VLeft Midfield
+p1803
+VLalmuankima H
+p1804
+tp1805
+a(VAttacking Midfield
+p1806
+VAndrei Ionescu
+p1807
+tp1808
+a(VCentre-Forward
+p1809
+VWilliam Lalnunfela
+p1810
+tp1811
+asS'Minerva Academy'
+p1812
+(lp1813
+(VGoalkeeper
+p1814
+VRakshit Dagar
+p1815
+tp1816
+a(VCentre-Back
+p1817
+VSukhdev Singh
+p1818
+tp1819
+a(VCentre-Back
+p1820
+VGuy Eric Dano
+p1821
+tp1822
+a(VLeft-Back
+p1823
+VAbhishek Ambekar
+p1824
+tp1825
+a(VRight-Back
+p1826
+VKamalpreet Singh
+p1827
+tp1828
+a(VDefensive Midfield
+p1829
+VToshiya Hosoe
+p1830
+tp1831
+a(VDefensive Midfield
+p1832
+VKassim Aidara
+p1833
+tp1834
+a(VRight Midfield
+p1835
+VAmandeep Singh
+p1836
+tp1837
+a(VLeft Midfield
+p1838
+VChencho Gyeltshen
+p1839
+tp1840
+a(VAttacking Midfield
+p1841
+VWilliam Opoku
+p1842
+tp1843
+a(VCentre-Forward
+p1844
+VBali Gagandeep
+p1845
+tp1846
+assI27
+(dp1847
+S'Gokulam FC'
+p1848
+(lp1849
+(VGoalkeeper
+p1850
+VBilal Khan
+p1851
+tp1852
+a(VCentre-Back
+p1853
+VEmmanuel Chigozie
+p1854
+tp1855
+a(VCentre-Back
+p1856
+VDaniel Addo
+p1857
+tp1858
+a(VLeft-Back
+p1859
+VSantu Singh
+p1860
+tp1861
+a(VRight-Back
+p1862
+VProvat Lakra
+p1863
+tp1864
+a(VDefensive Midfield
+p1865
+VMuhammed Rashid
+p1866
+tp1867
+a(VDefensive Midfield
+p1868
+VArjun Jayaraj
+p1869
+tp1870
+a(VRight Midfield
+p1871
+VRohit Mirza
+p1872
+tp1873
+a(VLeft Midfield
+p1874
+VVicky Meitei
+p1875
+tp1876
+a(VAttacking Midfield
+p1877
+VKhaled Al Saleh
+p1878
+tp1879
+a(VCentre-Forward
+p1880
+VKamo Bayi
+p1881
+tp1882
+asS'SC East Bengal'
+p1883
+(lp1884
+(VGoalkeeper
+p1885
+VLuis Barreto
+p1886
+tp1887
+a(VCentre-Back
+p1888
+VArnab Mondal
+p1889
+tp1890
+a(VCentre-Back
+p1891
+VEduardo
+p1892
+tp1893
+a(VLeft-Back
+p1894
+VSalam Singh
+p1895
+tp1896
+a(VRight-Back
+p1897
+VPrakash Sarkar
+p1898
+tp1899
+a(VCentral Midfield
+p1900
+VMohammed Rafique
+p1901
+tp1902
+a(VCentral Midfield
+p1903
+VMahmoud Al Amenah
+p1904
+tp1905
+a(VRight Midfield
+p1906
+VDanmawia
+p1907
+tp1908
+a(VLeft Midfield
+p1909
+VKatsumi Yusa
+p1910
+tp1911
+a(VCentre-Forward
+p1912
+VCharles De Souza
+p1913
+tp1914
+a(VCentre-Forward
+p1915
+VWillis Plaza
+p1916
+tp1917
+assI28
+(dp1918
+S'Indian Arrows'
+p1919
+(lp1920
+(VGoalkeeper
+p1921
+VDheeraj Singh
+p1922
+tp1923
+a(VCentre-Back
+p1924
+VAnwar Ali
+p1925
+tp1926
+a(VCentre-Back
+p1927
+VJitendra Singh
+p1928
+tp1929
+a(VLeft-Back
+p1930
+VSanjeev Stalin
+p1931
+tp1932
+a(VRight-Back
+p1933
+VAsish Rai
+p1934
+tp1935
+a(VDefensive Midfield
+p1936
+VSuresh Singh
+p1937
+tp1938
+a(VDefensive Midfield
+p1939
+VAmarjit Singh
+p1940
+tp1941
+a(VRight Midfield
+p1942
+VNongdamba Naorem
+p1943
+tp1944
+a(VLeft Midfield
+p1945
+VRahul KP
+p1946
+tp1947
+a(VAttacking Midfield
+p1948
+VJeakson Singh
+p1949
+tp1950
+a(VCentre-Forward
+p1951
+VRahim Ali
+p1952
+tp1953
+asS'Mohun Bagan'
+p1954
+(lp1955
+(VGoalkeeper
+p1956
+VShilton Paul
+p1957
+tp1958
+a(VCentre-Back
+p1959
+VKingsley Obumneme
+p1960
+tp1961
+a(VCentre-Back
+p1962
+VKingshuk Debnath
+p1963
+tp1964
+a(VLeft-Back
+p1965
+VRicky Lallawmawma
+p1966
+tp1967
+a(VRight-Back
+p1968
+VAbhishek Das
+p1969
+tp1970
+a(VDefensive Midfield
+p1971
+VRaynier Fernandes
+p1972
+tp1973
+a(VDefensive Midfield
+p1974
+VShilton D'Silva
+p1975
+tp1976
+a(VRight Midfield
+p1977
+VSk Faiaz
+p1978
+tp1979
+a(VLeft Midfield
+p1980
+VNikhil Kadam
+p1981
+tp1982
+a(VAttacking Midfield
+p1983
+VAnsumana Kromah
+p1984
+tp1985
+a(VCentre-Forward
+p1986
+VAser Pierrick Dipanda
+p1987
+tp1988
+assI29
+(dp1989
+S'NEROCA FC'
+p1990
+(lp1991
+(VGoalkeeper
+p1992
+VLalit Thapa
+p1993
+tp1994
+a(VCentre-Back
+p1995
+VVarney K Kallon
+p1996
+tp1997
+a(VCentre-Back
+p1998
+VSubash Singh
+p1999
+tp2000
+a(VLeft-Back
+p2001
+VTondonba Singh
+p2002
+tp2003
+a(VRight-Back
+p2004
+VGovin Singh
+p2005
+tp2006
+a(VCentral Midfield
+p2007
+VAryn Williams
+p2008
+tp2009
+a(VCentral Midfield
+p2010
+VThangjam Singh
+p2011
+tp2012
+a(VRight Midfield
+p2013
+VFabien Vorbe
+p2014
+tp2015
+a(VLeft Midfield
+p2016
+VAkhlidin Israilov
+p2017
+tp2018
+a(VCentre-Forward
+p2019
+VYumnam Singh
+p2020
+tp2021
+a(VCentre-Forward
+p2022
+VFelix Chidi Odili
+p2023
+tp2024
+asS'SC East Bengal'
+p2025
+(lp2026
+(VGoalkeeper
+p2027
+VLuis Barreto
+p2028
+tp2029
+a(VCentre-Back
+p2030
+VArnab Mondal
+p2031
+tp2032
+a(VCentre-Back
+p2033
+VEduardo
+p2034
+tp2035
+a(VLeft-Back
+p2036
+VSalam Singh
+p2037
+tp2038
+a(VRight-Back
+p2039
+VLalramchullova
+p2040
+tp2041
+a(VDefensive Midfield
+p2042
+VPrakash Sarkar
+p2043
+tp2044
+a(VDefensive Midfield
+p2045
+VBazie Armand
+p2046
+tp2047
+a(VRight Midfield
+p2048
+VDanmawia
+p2049
+tp2050
+a(VLeft Midfield
+p2051
+VKatsumi Yusa
+p2052
+tp2053
+a(VAttacking Midfield
+p2054
+VMahmoud Al Amenah
+p2055
+tp2056
+a(VCentre-Forward
+p2057
+VWillis Plaza
+p2058
+tp2059
+assI30
+(dp2060
+S'Gokulam FC'
+p2061
+(lp2062
+(VGoalkeeper
+p2063
+VNikhil Bernard
+p2064
+tp2065
+a(VCentre-Back
+p2066
+VEmmanuel Chigozie
+p2067
+tp2068
+a(VCentre-Back
+p2069
+VDaniel Addo
+p2070
+tp2071
+a(VLeft-Back
+p2072
+VProvat Lakra
+p2073
+tp2074
+a(VRight-Back
+p2075
+VSantu Singh
+p2076
+tp2077
+a(VDefensive Midfield
+p2078
+VKawrtethawveng Laldampuia
+p2079
+tp2080
+a(VDefensive Midfield
+p2081
+VArjun Jayaraj
+p2082
+tp2083
+a(VRight Midfield
+p2084
+VUsman Ashik
+p2085
+tp2086
+a(VLeft Midfield
+p2087
+VMuhammed Rashid
+p2088
+tp2089
+a(VAttacking Midfield
+p2090
+VVicky Meitei
+p2091
+tp2092
+a(VCentre-Forward
+p2093
+VMohammed Irshad
+p2094
+tp2095
+asS'Aizawl FC'
+p2096
+(lp2097
+(VGoalkeeper
+p2098
+VAvilash Paul
+p2099
+tp2100
+a(VCentre-Back
+p2101
+VKareem Nurain
+p2102
+tp2103
+a(VCentre-Back
+p2104
+VMasih Saighani
+p2105
+tp2106
+a(VLeft-Back
+p2107
+VLalramhmunmawia
+p2108
+tp2109
+a(VRight-Back
+p2110
+VLaldinliana Renthlei
+p2111
+tp2112
+a(VDefensive Midfield
+p2113
+VValpuia
+p2114
+tp2115
+a(VDefensive Midfield
+p2116
+VDavid Lalrinmuana
+p2117
+tp2118
+a(VRight Midfield
+p2119
+VLéonce Dodoz
+p2120
+tp2121
+a(VLeft Midfield
+p2122
+VLalmuankima H
+p2123
+tp2124
+a(VAttacking Midfield
+p2125
+VAndrei Ionescu
+p2126
+tp2127
+a(VCentre-Forward
+p2128
+VYugo Kobayashi
+p2129
+tp2130
+assI31
+(dp2131
+S'Indian Arrows'
+p2132
+(lp2133
+(VGoalkeeper
+p2134
+VPrabhsukhan Singh Gill
+p2135
+tp2136
+a(VCentre-Back
+p2137
+VAnwar Ali
+p2138
+tp2139
+a(VCentre-Back
+p2140
+VJitendra Singh
+p2141
+tp2142
+a(VLeft-Back
+p2143
+VSanjeev Stalin
+p2144
+tp2145
+a(VRight-Back
+p2146
+VBoris Singh
+p2147
+tp2148
+a(VDefensive Midfield
+p2149
+VDeepak Tangri
+p2150
+tp2151
+a(VDefensive Midfield
+p2152
+VAbhishek Halder
+p2153
+tp2154
+a(VRight Midfield
+p2155
+VNinthoi Meetei
+p2156
+tp2157
+a(VLeft Midfield
+p2158
+VAniket Jadhav
+p2159
+tp2160
+a(VAttacking Midfield
+p2161
+VAbhijit Sarkar
+p2162
+tp2163
+a(VCentre-Forward
+p2164
+VEdmund Lalrindika
+p2165
+tp2166
+asS'SC East Bengal'
+p2167
+(lp2168
+(VGoalkeeper
+p2169
+VLuis Barreto
+p2170
+tp2171
+a(VCentre-Back
+p2172
+VArnab Mondal
+p2173
+tp2174
+a(VCentre-Back
+p2175
+VEduardo
+p2176
+tp2177
+a(VLeft-Back
+p2178
+VSalam Singh
+p2179
+tp2180
+a(VRight-Back
+p2181
+VPrakash Sarkar
+p2182
+tp2183
+a(VDefensive Midfield
+p2184
+VBazie Armand
+p2185
+tp2186
+a(VDefensive Midfield
+p2187
+VCavin Lobo
+p2188
+tp2189
+a(VCentral Midfield
+p2190
+VMahmoud Al Amenah
+p2191
+tp2192
+a(VRight Midfield
+p2193
+VDanmawia
+p2194
+tp2195
+a(VLeft Midfield
+p2196
+VKatsumi Yusa
+p2197
+tp2198
+a(VCentre-Forward
+p2199
+VJoby Justin
+p2200
+tp2201
+assI32
+(dp2202
+S'Mohun Bagan'
+p2203
+(lp2204
+(VGoalkeeper
+p2205
+VShilton Paul
+p2206
+tp2207
+a(VCentre-Back
+p2208
+VKingsley Obumneme
+p2209
+tp2210
+a(VCentre-Back
+p2211
+VRana Gharami
+p2212
+tp2213
+a(VLeft-Back
+p2214
+VRicky Lallawmawma
+p2215
+tp2216
+a(VRight-Back
+p2217
+VAbhishek Das
+p2218
+tp2219
+a(VCentral Midfield
+p2220
+VSourav Das
+p2221
+tp2222
+a(VCentral Midfield
+p2223
+VShilton D'Silva
+p2224
+tp2225
+a(VRight Midfield
+p2226
+VSk Faiaz
+p2227
+tp2228
+a(VLeft Midfield
+p2229
+VAzharuddin Mallick
+p2230
+tp2231
+a(VAttacking Midfield
+p2232
+VAnsumana Kromah
+p2233
+tp2234
+a(VCentre-Forward
+p2235
+VAser Pierrick Dipanda
+p2236
+tp2237
+asS'Chennai City'
+p2238
+(lp2239
+(VGoalkeeper
+p2240
+VUros Poljanec
+p2241
+tp2242
+a(VCentre-Back
+p2243
+VDharmaraj Ravanan
+p2244
+tp2245
+a(VCentre-Back
+p2246
+VVeniamin Shumeyko
+p2247
+tp2248
+a(VLeft-Back
+p2249
+VPradeep Mohanraj
+p2250
+tp2251
+a(VRight-Back
+p2252
+VTarif Akhand
+p2253
+tp2254
+a(VCentral Midfield
+p2255
+VSinivasan Pandiyan
+p2256
+tp2257
+a(VCentral Midfield
+p2258
+VMichael Soosairaj
+p2259
+tp2260
+a(VRight Midfield
+p2261
+VCharles Anandraj Lourdusamy
+p2262
+tp2263
+a(VLeft Midfield
+p2264
+VEdwin Sydney Vanspaul
+p2265
+tp2266
+a(VCentre-Forward
+p2267
+VMurilo Almeida
+p2268
+tp2269
+a(VCentre-Forward
+p2270
+VJunior Joachim
+p2271
+tp2272
+assI33
+(dp2273
+S'Indian Arrows'
+p2274
+(lp2275
+(VGoalkeeper
+p2276
+VPrabhsukhan Singh Gill
+p2277
+tp2278
+a(VCentre-Back
+p2279
+VAnwar Ali
+p2280
+tp2281
+a(VCentre-Back
+p2282
+VJitendra Singh
+p2283
+tp2284
+a(VLeft-Back
+p2285
+VSanjeev Stalin
+p2286
+tp2287
+a(VRight-Back
+p2288
+VBoris Singh
+p2289
+tp2290
+a(VDefensive Midfield
+p2291
+VSuresh Singh
+p2292
+tp2293
+a(VDefensive Midfield
+p2294
+VAmarjit Singh
+p2295
+tp2296
+a(VRight Midfield
+p2297
+VRahul KP
+p2298
+tp2299
+a(VLeft Midfield
+p2300
+VNongdamba Naorem
+p2301
+tp2302
+a(VAttacking Midfield
+p2303
+VJeakson Singh
+p2304
+tp2305
+a(VCentre-Forward
+p2306
+VRahim Ali
+p2307
+tp2308
+asS'NEROCA FC'
+p2309
+(lp2310
+(VGoalkeeper
+p2311
+VLalit Thapa
+p2312
+tp2313
+a(VCentre-Back
+p2314
+VVarney K Kallon
+p2315
+tp2316
+a(VCentre-Back
+p2317
+VGouramangi Singh
+p2318
+tp2319
+a(VLeft-Back
+p2320
+VTondonba Singh
+p2321
+tp2322
+a(VRight-Back
+p2323
+VAshok Singh
+p2324
+tp2325
+a(VDefensive Midfield
+p2326
+VFabien Vorbe
+p2327
+tp2328
+a(VDefensive Midfield
+p2329
+VAryn Williams
+p2330
+tp2331
+a(VRight Midfield
+p2332
+VFelix Chidi Odili
+p2333
+tp2334
+a(VLeft Midfield
+p2335
+VAkhlidin Israilov
+p2336
+tp2337
+a(VAttacking Midfield
+p2338
+VYumnam Singh
+p2339
+tp2340
+a(VCentre-Forward
+p2341
+VSubash Singh
+p2342
+tp2343
+assI34
+(dp2344
+S'Shillong Lajong'
+p2345
+(lp2346
+(VGoalkeeper
+p2347
+VPhurba Lachenpa
+p2348
+tp2349
+a(VCentre-Back
+p2350
+VLawrence Doe
+p2351
+tp2352
+a(VCentre-Back
+p2353
+VDaniel Odafin
+p2354
+tp2355
+a(VLeft-Back
+p2356
+VKenstar Kharshong
+p2357
+tp2358
+a(VRight-Back
+p2359
+VRakesh Pradhan
+p2360
+tp2361
+a(VCentral Midfield
+p2362
+VHardy Nongbri
+p2363
+tp2364
+a(VCentral Midfield
+p2365
+VAlen Deory
+p2366
+tp2367
+a(VRight Midfield
+p2368
+VNovin Gurung
+p2369
+tp2370
+a(VLeft Midfield
+p2371
+VRedeem Tlang
+p2372
+tp2373
+a(VSecond Striker
+p2374
+VAiman Al Hagri
+p2375
+tp2376
+a(VCentre-Forward
+p2377
+VAbdoulaye Koffi
+p2378
+tp2379
+asS'Chennai City'
+p2380
+(lp2381
+(VGoalkeeper
+p2382
+VUros Poljanec
+p2383
+tp2384
+a(VCentre-Back
+p2385
+VDharmaraj Ravanan
+p2386
+tp2387
+a(VCentre-Back
+p2388
+VVeniamin Shumeyko
+p2389
+tp2390
+a(VLeft-Back
+p2391
+VCharles Anandraj Lourdusamy
+p2392
+tp2393
+a(VRight-Back
+p2394
+VTarif Akhand
+p2395
+tp2396
+a(VCentral Midfield
+p2397
+VSinivasan Pandiyan
+p2398
+tp2399
+a(VCentral Midfield
+p2400
+VMichael Soosairaj
+p2401
+tp2402
+a(VRight Midfield
+p2403
+VAlexander Romario Jesuraj
+p2404
+tp2405
+a(VLeft Midfield
+p2406
+VEdwin Sydney Vanspaul
+p2407
+tp2408
+a(VCentre-Forward
+p2409
+VMurilo Almeida
+p2410
+tp2411
+a(VCentre-Forward
+p2412
+VJunior Joachim
+p2413
+tp2414
+assI35
+(dp2415
+S'Gokulam FC'
+p2416
+(lp2417
+(VGoalkeeper
+p2418
+VBilal Khan
+p2419
+tp2420
+a(VCentre-Back
+p2421
+VEmmanuel Chigozie
+p2422
+tp2423
+a(VCentre-Back
+p2424
+VDaniel Addo
+p2425
+tp2426
+a(VLeft-Back
+p2427
+VMohammed Salah
+p2428
+tp2429
+a(VRight-Back
+p2430
+VSantu Singh
+p2431
+tp2432
+a(VDefensive Midfield
+p2433
+VBalwinder Singh
+p2434
+tp2435
+a(VDefensive Midfield
+p2436
+VMuhammed Rashid
+p2437
+tp2438
+a(VAttacking Midfield
+p2439
+VKivi Zhimomi
+p2440
+tp2441
+a(VLeft Winger
+p2442
+VVicky Meitei
+p2443
+tp2444
+a(VRight Winger
+p2445
+VMohammed Irshad
+p2446
+tp2447
+a(VCentre-Forward
+p2448
+VOdafe Okolie
+p2449
+tp2450
+asS'Minerva Academy'
+p2451
+(lp2452
+(VGoalkeeper
+p2453
+VRakshit Dagar
+p2454
+tp2455
+a(VCentre-Back
+p2456
+VSukhdev Singh
+p2457
+tp2458
+a(VCentre-Back
+p2459
+VGuy Eric Dano
+p2460
+tp2461
+a(VLeft-Back
+p2462
+VAbhishek Ambekar
+p2463
+tp2464
+a(VRight-Back
+p2465
+VKamalpreet Singh
+p2466
+tp2467
+a(VDefensive Midfield
+p2468
+VAmandeep Singh
+p2469
+tp2470
+a(VDefensive Midfield
+p2471
+VKassim Aidara
+p2472
+tp2473
+a(VAttacking Midfield
+p2474
+VWilliam Opoku
+p2475
+tp2476
+a(VLeft Winger
+p2477
+VChencho Gyeltshen
+p2478
+tp2479
+a(VRight Winger
+p2480
+VMoinuddin Khan
+p2481
+tp2482
+a(VCentre-Forward
+p2483
+VBali Gagandeep
+p2484
+tp2485
+assI36
+(dp2486
+S'Mohun Bagan'
+p2487
+(lp2488
+(VGoalkeeper
+p2489
+VShilton Paul
+p2490
+tp2491
+a(VCentre-Back
+p2492
+VKingsley Obumneme
+p2493
+tp2494
+a(VCentre-Back
+p2495
+VKingshuk Debnath
+p2496
+tp2497
+a(VLeft-Back
+p2498
+VRicky Lallawmawma
+p2499
+tp2500
+a(VRight-Back
+p2501
+VArijit Bagui
+p2502
+tp2503
+a(VCentral Midfield
+p2504
+VCameron Watson
+p2505
+tp2506
+a(VCentral Midfield
+p2507
+VRaynier Fernandes
+p2508
+tp2509
+a(VRight Midfield
+p2510
+VDipendu Dowary
+p2511
+tp2512
+a(VLeft Midfield
+p2513
+VNikhil Kadam
+p2514
+tp2515
+a(VAttacking Midfield
+p2516
+VAnsumana Kromah
+p2517
+tp2518
+a(VCentre-Forward
+p2519
+VAser Pierrick Dipanda
+p2520
+tp2521
+asS'Aizawl FC'
+p2522
+(lp2523
+(VGoalkeeper
+p2524
+VAvilash Paul
+p2525
+tp2526
+a(VCentre-Back
+p2527
+VKareem Nurain
+p2528
+tp2529
+a(VCentre-Back
+p2530
+VMasih Saighani
+p2531
+tp2532
+a(VLeft-Back
+p2533
+VLalramhmunmawia
+p2534
+tp2535
+a(VRight-Back
+p2536
+VLaldinliana Renthlei
+p2537
+tp2538
+a(VDefensive Midfield
+p2539
+VAlfred Jaryan
+p2540
+tp2541
+a(VDefensive Midfield
+p2542
+VPuitea
+p2543
+tp2544
+a(VRight Midfield
+p2545
+VLéonce Dodoz
+p2546
+tp2547
+a(VLeft Midfield
+p2548
+VShylo Malsawmtluanga
+p2549
+tp2550
+a(VAttacking Midfield
+p2551
+VAndrei Ionescu
+p2552
+tp2553
+a(VCentre-Forward
+p2554
+VWilliam Lalnunfela
+p2555
+tp2556
+assI37
+(dp2557
+S'Indian Arrows'
+p2558
+(lp2559
+(VGoalkeeper
+p2560
+VPrabhsukhan Singh Gill
+p2561
+tp2562
+a(VCentre-Back
+p2563
+VJitendra Singh
+p2564
+tp2565
+a(VCentre-Back
+p2566
+VDeepak Tangri
+p2567
+tp2568
+a(VLeft-Back
+p2569
+VNaorem Roshan Singh
+p2570
+tp2571
+a(VRight-Back
+p2572
+VAsish Rai
+p2573
+tp2574
+a(VDefensive Midfield
+p2575
+VSuresh Singh
+p2576
+tp2577
+a(VDefensive Midfield
+p2578
+VAmarjit Singh
+p2579
+tp2580
+a(VRight Midfield
+p2581
+VRahul KP
+p2582
+tp2583
+a(VLeft Midfield
+p2584
+VNinthoi Meetei
+p2585
+tp2586
+a(VAttacking Midfield
+p2587
+VAbhijit Sarkar
+p2588
+tp2589
+a(VCentre-Forward
+p2590
+VEdmund Lalrindika
+p2591
+tp2592
+asS'Shillong Lajong'
+p2593
+(lp2594
+(VGoalkeeper
+p2595
+VPhurba Lachenpa
+p2596
+tp2597
+a(VCentre-Back
+p2598
+VKenstar Kharshong
+p2599
+tp2600
+a(VCentre-Back
+p2601
+VNovin Gurung
+p2602
+tp2603
+a(VLeft-Back
+p2604
+VRakesh Pradhan
+p2605
+tp2606
+a(VRight-Back
+p2607
+VKynsai Khongsit
+p2608
+tp2609
+a(VDefensive Midfield
+p2610
+VDaniel Odafin
+p2611
+tp2612
+a(VDefensive Midfield
+p2613
+VHardy Nongbri
+p2614
+tp2615
+a(VRight Midfield
+p2616
+VAiman Al Hagri
+p2617
+tp2618
+a(VLeft Midfield
+p2619
+VSamuel Lalmuanpuia
+p2620
+tp2621
+a(VAttacking Midfield
+p2622
+VAlen Deory
+p2623
+tp2624
+a(VCentre-Forward
+p2625
+VAbdoulaye Koffi
+p2626
+tp2627
+assI38
+(dp2628
+S'Ch. Brothers'
+p2629
+(lp2630
+(VGoalkeeper
+p2631
+VJames Kithan
+p2632
+tp2633
+a(VCentre-Back
+p2634
+VSuraj Singh
+p2635
+tp2636
+a(VCentre-Back
+p2637
+VMonday Osagie
+p2638
+tp2639
+a(VLeft-Back
+p2640
+VJovel Martins
+p2641
+tp2642
+a(VRight-Back
+p2643
+VWayne Vaz
+p2644
+tp2645
+a(VCentral Midfield
+p2646
+VKalu Ogba
+p2647
+tp2648
+a(VCentral Midfield
+p2649
+VPeter Omoduemuke
+p2650
+tp2651
+a(VRight Midfield
+p2652
+VBritto PM
+p2653
+tp2654
+a(VLeft Midfield
+p2655
+VNicholas Fernandes
+p2656
+tp2657
+a(VCentre-Forward
+p2658
+VUttam Rai
+p2659
+tp2660
+a(VCentre-Forward
+p2661
+VMéchac Koffi
+p2662
+tp2663
+asS'SC East Bengal'
+p2664
+(lp2665
+(VGoalkeeper
+p2666
+VLuis Barreto
+p2667
+tp2668
+a(VCentre-Back
+p2669
+VArnab Mondal
+p2670
+tp2671
+a(VCentre-Back
+p2672
+VEduardo
+p2673
+tp2674
+a(VLeft-Back
+p2675
+VSalam Singh
+p2676
+tp2677
+a(VRight-Back
+p2678
+VPrakash Sarkar
+p2679
+tp2680
+a(VDefensive Midfield
+p2681
+VBazie Armand
+p2682
+tp2683
+a(VCentral Midfield
+p2684
+VMohammed Rafique
+p2685
+tp2686
+a(VCentral Midfield
+p2687
+VMahmoud Al Amenah
+p2688
+tp2689
+a(VRight Midfield
+p2690
+VDanmawia
+p2691
+tp2692
+a(VLeft Midfield
+p2693
+VKatsumi Yusa
+p2694
+tp2695
+a(VCentre-Forward
+p2696
+VJoby Justin
+p2697
+tp2698
+assI39
+(dp2699
+S'NEROCA FC'
+p2700
+(lp2701
+(VGoalkeeper
+p2702
+VLalit Thapa
+p2703
+tp2704
+a(VCentre-Back
+p2705
+VVarney K Kallon
+p2706
+tp2707
+a(VCentre-Back
+p2708
+VGouramangi Singh
+p2709
+tp2710
+a(VLeft-Back
+p2711
+VTondonba Singh
+p2712
+tp2713
+a(VRight-Back
+p2714
+VAshok Singh
+p2715
+tp2716
+a(VDefensive Midfield
+p2717
+VFabien Vorbe
+p2718
+tp2719
+a(VDefensive Midfield
+p2720
+VAryn Williams
+p2721
+tp2722
+a(VRight Midfield
+p2723
+VPritam Singh
+p2724
+tp2725
+a(VLeft Midfield
+p2726
+VYumnam Singh
+p2727
+tp2728
+a(VAttacking Midfield
+p2729
+VNedo Turkovic
+p2730
+tp2731
+a(VCentre-Forward
+p2732
+VFelix Chidi Odili
+p2733
+tp2734
+asS'Chennai City'
+p2735
+(lp2736
+(VGoalkeeper
+p2737
+VUros Poljanec
+p2738
+tp2739
+a(VCentre-Back
+p2740
+VDharmaraj Ravanan
+p2741
+tp2742
+a(VCentre-Back
+p2743
+VVeniamin Shumeyko
+p2744
+tp2745
+a(VLeft-Back
+p2746
+VPradeep Mohanraj
+p2747
+tp2748
+a(VRight-Back
+p2749
+VTarif Akhand
+p2750
+tp2751
+a(VDefensive Midfield
+p2752
+VSinivasan Pandiyan
+p2753
+tp2754
+a(VDefensive Midfield
+p2755
+VAlexander Romario Jesuraj
+p2756
+tp2757
+a(VRight Midfield
+p2758
+VCharles Anandraj Lourdusamy
+p2759
+tp2760
+a(VLeft Midfield
+p2761
+VEdwin Sydney Vanspaul
+p2762
+tp2763
+a(VAttacking Midfield
+p2764
+VMichael Soosairaj
+p2765
+tp2766
+a(VCentre-Forward
+p2767
+VMurilo Almeida
+p2768
+tp2769
+assI40
+(dp2770
+S'Mohun Bagan'
+p2771
+(lp2772
+(VGoalkeeper
+p2773
+VShibin Raj Kunniyil
+p2774
+tp2775
+a(VCentre-Back
+p2776
+VKingsley Obumneme
+p2777
+tp2778
+a(VCentre-Back
+p2779
+VKingshuk Debnath
+p2780
+tp2781
+a(VLeft-Back
+p2782
+VRicky Lallawmawma
+p2783
+tp2784
+a(VRight-Back
+p2785
+VArijit Bagui
+p2786
+tp2787
+a(VCentral Midfield
+p2788
+VCameron Watson
+p2789
+tp2790
+a(VCentral Midfield
+p2791
+VRaynier Fernandes
+p2792
+tp2793
+a(VRight Midfield
+p2794
+VBeingaichho Beokhokhai
+p2795
+tp2796
+a(VLeft Midfield
+p2797
+VNikhil Kadam
+p2798
+tp2799
+a(VAttacking Midfield
+p2800
+VAnsumana Kromah
+p2801
+tp2802
+a(VCentre-Forward
+p2803
+VAser Pierrick Dipanda
+p2804
+tp2805
+asS'Minerva Academy'
+p2806
+(lp2807
+(VGoalkeeper
+p2808
+VRakshit Dagar
+p2809
+tp2810
+a(VCentre-Back
+p2811
+VSukhdev Singh
+p2812
+tp2813
+a(VCentre-Back
+p2814
+VGuy Eric Dano
+p2815
+tp2816
+a(VLeft-Back
+p2817
+VDeepak Devrani
+p2818
+tp2819
+a(VRight-Back
+p2820
+VKamalpreet Singh
+p2821
+tp2822
+a(VDefensive Midfield
+p2823
+VAbhishek Ambekar
+p2824
+tp2825
+a(VDefensive Midfield
+p2826
+VKassim Aidara
+p2827
+tp2828
+a(VRight Midfield
+p2829
+VAmandeep Singh
+p2830
+tp2831
+a(VLeft Midfield
+p2832
+VChencho Gyeltshen
+p2833
+tp2834
+a(VAttacking Midfield
+p2835
+VWilliam Opoku
+p2836
+tp2837
+a(VCentre-Forward
+p2838
+VMoinuddin Khan
+p2839
+tp2840
+assI41
+(dp2841
+S'Indian Arrows'
+p2842
+(lp2843
+(VGoalkeeper
+p2844
+VPrabhsukhan Singh Gill
+p2845
+tp2846
+a(VCentre-Back
+p2847
+VAnwar Ali
+p2848
+tp2849
+a(VCentre-Back
+p2850
+VJitendra Singh
+p2851
+tp2852
+a(VLeft-Back
+p2853
+VSanjeev Stalin
+p2854
+tp2855
+a(VRight-Back
+p2856
+VBoris Singh
+p2857
+tp2858
+a(VDefensive Midfield
+p2859
+VAmarjit Singh
+p2860
+tp2861
+a(VDefensive Midfield
+p2862
+VJeakson Singh
+p2863
+tp2864
+a(VRight Midfield
+p2865
+VRahul KP
+p2866
+tp2867
+a(VLeft Midfield
+p2868
+VAniket Jadhav
+p2869
+tp2870
+a(VAttacking Midfield
+p2871
+VAbhijit Sarkar
+p2872
+tp2873
+a(VCentre-Forward
+p2874
+VRahim Ali
+p2875
+tp2876
+asS'Gokulam FC'
+p2877
+(lp2878
+(VGoalkeeper
+p2879
+VBilal Khan
+p2880
+tp2881
+a(VCentre-Back
+p2882
+VEmmanuel Chigozie
+p2883
+tp2884
+a(VCentre-Back
+p2885
+VDaniel Addo
+p2886
+tp2887
+a(VLeft-Back
+p2888
+VProvat Lakra
+p2889
+tp2890
+a(VRight-Back
+p2891
+VSantu Singh
+p2892
+tp2893
+a(VDefensive Midfield
+p2894
+VMuhammed Rashid
+p2895
+tp2896
+a(VDefensive Midfield
+p2897
+VArjun Jayaraj
+p2898
+tp2899
+a(VRight Midfield
+p2900
+VFrancis Xavier
+p2901
+tp2902
+a(VLeft Midfield
+p2903
+VMohammed Salah
+p2904
+tp2905
+a(VAttacking Midfield
+p2906
+VKivi Zhimomi
+p2907
+tp2908
+a(VCentre-Forward
+p2909
+VOdafe Okolie
+p2910
+tp2911
+assI42
+(dp2912
+S'Aizawl FC'
+p2913
+(lp2914
+(VGoalkeeper
+p2915
+VAvilash Paul
+p2916
+tp2917
+a(VCentre-Back
+p2918
+VKareem Nurain
+p2919
+tp2920
+a(VCentre-Back
+p2921
+VMasih Saighani
+p2922
+tp2923
+a(VLeft-Back
+p2924
+VC Lalrosanga
+p2925
+tp2926
+a(VRight-Back
+p2927
+VLaldinliana Renthlei
+p2928
+tp2929
+a(VDefensive Midfield
+p2930
+VAlfred Jaryan
+p2931
+tp2932
+a(VDefensive Midfield
+p2933
+VDavid Lalrinmuana
+p2934
+tp2935
+a(VRight Midfield
+p2936
+VAlbert Zohmingmawia
+p2937
+tp2938
+a(VLeft Midfield
+p2939
+VShylo Malsawmtluanga
+p2940
+tp2941
+a(VAttacking Midfield
+p2942
+VAndrei Ionescu
+p2943
+tp2944
+a(VCentre-Forward
+p2945
+VYugo Kobayashi
+p2946
+tp2947
+asS'Chennai City'
+p2948
+(lp2949
+(VGoalkeeper
+p2950
+VUros Poljanec
+p2951
+tp2952
+a(VCentre-Back
+p2953
+VVeniamin Shumeyko
+p2954
+tp2955
+a(VCentre-Back
+p2956
+VDharmaraj Ravanan
+p2957
+tp2958
+a(VLeft-Back
+p2959
+VPradeep Mohanraj
+p2960
+tp2961
+a(VRight-Back
+p2962
+VTarif Akhand
+p2963
+tp2964
+a(VCentral Midfield
+p2965
+VSinivasan Pandiyan
+p2966
+tp2967
+a(VCentral Midfield
+p2968
+VAlexander Romario Jesuraj
+p2969
+tp2970
+a(VRight Midfield
+p2971
+VCharles Anandraj Lourdusamy
+p2972
+tp2973
+a(VLeft Midfield
+p2974
+VEdwin Sydney Vanspaul
+p2975
+tp2976
+a(VAttacking Midfield
+p2977
+VMichael Soosairaj
+p2978
+tp2979
+a(VCentre-Forward
+p2980
+VJunior Joachim
+p2981
+tp2982
+assI43
+(dp2983
+S'Shillong Lajong'
+p2984
+(lp2985
+(VGoalkeeper
+p2986
+VPhurba Lachenpa
+p2987
+tp2988
+a(VCentre-Back
+p2989
+VKenstar Kharshong
+p2990
+tp2991
+a(VCentre-Back
+p2992
+VLawrence Doe
+p2993
+tp2994
+a(VCentre-Back
+p2995
+VRakesh Pradhan
+p2996
+tp2997
+a(VDefensive Midfield
+p2998
+VDaniel Odafin
+p2999
+tp3000
+a(VDefensive Midfield
+p3001
+VHardy Nongbri
+p3002
+tp3003
+a(VRight Midfield
+p3004
+VNovin Gurung
+p3005
+tp3006
+a(VLeft Midfield
+p3007
+VSamuel Lalmuanpuia
+p3008
+tp3009
+a(VAttacking Midfield
+p3010
+VAiman Al Hagri
+p3011
+tp3012
+a(VCentre-Forward
+p3013
+VAbdoulaye Koffi
+p3014
+tp3015
+a(VCentre-Forward
+p3016
+VAlen Deory
+p3017
+tp3018
+asS'Minerva Academy'
+p3019
+(lp3020
+(VGoalkeeper
+p3021
+VRakshit Dagar
+p3022
+tp3023
+a(VCentre-Back
+p3024
+VSukhdev Singh
+p3025
+tp3026
+a(VCentre-Back
+p3027
+VGuy Eric Dano
+p3028
+tp3029
+a(VLeft-Back
+p3030
+VAbhishek Ambekar
+p3031
+tp3032
+a(VRight-Back
+p3033
+VKamalpreet Singh
+p3034
+tp3035
+a(VDefensive Midfield
+p3036
+VAmandeep Singh
+p3037
+tp3038
+a(VDefensive Midfield
+p3039
+VKassim Aidara
+p3040
+tp3041
+a(VRight Midfield
+p3042
+VLago Dogbo
+p3043
+tp3044
+a(VLeft Midfield
+p3045
+VChencho Gyeltshen
+p3046
+tp3047
+a(VAttacking Midfield
+p3048
+VWilliam Opoku
+p3049
+tp3050
+a(VCentre-Forward
+p3051
+VMoinuddin Khan
+p3052
+tp3053
+assI44
+(dp3054
+S'Ch. Brothers'
+p3055
+(lp3056
+(VGoalkeeper
+p3057
+VJames Kithan
+p3058
+tp3059
+a(VCentre-Back
+p3060
+VSuraj Singh
+p3061
+tp3062
+a(VCentre-Back
+p3063
+VMonday Osagie
+p3064
+tp3065
+a(VLeft-Back
+p3066
+VJovel Martins
+p3067
+tp3068
+a(VRight-Back
+p3069
+VWayne Vaz
+p3070
+tp3071
+a(VCentral Midfield
+p3072
+VKalu Ogba
+p3073
+tp3074
+a(VCentral Midfield
+p3075
+VPeter Omoduemuke
+p3076
+tp3077
+a(VRight Midfield
+p3078
+VBritto PM
+p3079
+tp3080
+a(VLeft Midfield
+p3081
+VNicholas Fernandes
+p3082
+tp3083
+a(VCentre-Forward
+p3084
+VUttam Rai
+p3085
+tp3086
+a(VCentre-Forward
+p3087
+VMéchac Koffi
+p3088
+tp3089
+asS'Gokulam FC'
+p3090
+(lp3091
+(VGoalkeeper
+p3092
+VBilal Khan
+p3093
+tp3094
+a(VCentre-Back
+p3095
+VEmmanuel Chigozie
+p3096
+tp3097
+a(VCentre-Back
+p3098
+VDaniel Addo
+p3099
+tp3100
+a(VLeft-Back
+p3101
+VProvat Lakra
+p3102
+tp3103
+a(VRight-Back
+p3104
+VSantu Singh
+p3105
+tp3106
+a(VDefensive Midfield
+p3107
+VKawrtethawveng Laldampuia
+p3108
+tp3109
+a(VDefensive Midfield
+p3110
+VArjun Jayaraj
+p3111
+tp3112
+a(VRight Midfield
+p3113
+VMohammed Irshad
+p3114
+tp3115
+a(VLeft Midfield
+p3116
+VSalman K
+p3117
+tp3118
+a(VAttacking Midfield
+p3119
+VMahmood Al-Ajmi
+p3120
+tp3121
+a(VCentre-Forward
+p3122
+VOdafe Okolie
+p3123
+tp3124
+assI45
+(dp3125
+S'Aizawl FC'
+p3126
+(lp3127
+(VGoalkeeper
+p3128
+VAvilash Paul
+p3129
+tp3130
+a(VCentre-Back
+p3131
+VKareem Nurain
+p3132
+tp3133
+a(VCentre-Back
+p3134
+VMasih Saighani
+p3135
+tp3136
+a(VLeft-Back
+p3137
+VC Lalrosanga
+p3138
+tp3139
+a(VRight-Back
+p3140
+VLaldinliana Renthlei
+p3141
+tp3142
+a(VDefensive Midfield
+p3143
+VValpuia
+p3144
+tp3145
+a(VDefensive Midfield
+p3146
+VAlfred Jaryan
+p3147
+tp3148
+a(VRight Midfield
+p3149
+VAlbert Zohmingmawia
+p3150
+tp3151
+a(VLeft Midfield
+p3152
+VLéonce Dodoz
+p3153
+tp3154
+a(VAttacking Midfield
+p3155
+VAndrei Ionescu
+p3156
+tp3157
+a(VCentre-Forward
+p3158
+VWilliam Lalnunfela
+p3159
+tp3160
+asS'SC East Bengal'
+p3161
+(lp3162
+(VGoalkeeper
+p3163
+VLuis Barreto
+p3164
+tp3165
+a(VCentre-Back
+p3166
+VArnab Mondal
+p3167
+tp3168
+a(VCentre-Back
+p3169
+VEduardo
+p3170
+tp3171
+a(VLeft-Back
+p3172
+VSalam Singh
+p3173
+tp3174
+a(VRight-Back
+p3175
+VLalramchullova
+p3176
+tp3177
+a(VDefensive Midfield
+p3178
+VBazie Armand
+p3179
+tp3180
+a(VCentral Midfield
+p3181
+VPrakash Sarkar
+p3182
+tp3183
+a(VCentral Midfield
+p3184
+VMahmoud Al Amenah
+p3185
+tp3186
+a(VRight Midfield
+p3187
+VDanmawia
+p3188
+tp3189
+a(VLeft Midfield
+p3190
+VKatsumi Yusa
+p3191
+tp3192
+a(VCentre-Forward
+p3193
+VJoby Justin
+p3194
+tp3195
+assI46
+(dp3196
+S'Indian Arrows'
+p3197
+(lp3198
+(VGoalkeeper
+p3199
+VPrabhsukhan Singh Gill
+p3200
+tp3201
+a(VCentre-Back
+p3202
+VAnwar Ali
+p3203
+tp3204
+a(VCentre-Back
+p3205
+VJitendra Singh
+p3206
+tp3207
+a(VLeft-Back
+p3208
+VSanjeev Stalin
+p3209
+tp3210
+a(VRight-Back
+p3211
+VBoris Singh
+p3212
+tp3213
+a(VDefensive Midfield
+p3214
+VSuresh Singh
+p3215
+tp3216
+a(VDefensive Midfield
+p3217
+VAmarjit Singh
+p3218
+tp3219
+a(VRight Midfield
+p3220
+VRahul KP
+p3221
+tp3222
+a(VLeft Midfield
+p3223
+VRahim Ali
+p3224
+tp3225
+a(VAttacking Midfield
+p3226
+VJeakson Singh
+p3227
+tp3228
+a(VCentre-Forward
+p3229
+VEdmund Lalrindika
+p3230
+tp3231
+asS'NEROCA FC'
+p3232
+(lp3233
+(VGoalkeeper
+p3234
+VBishorjit Singh
+p3235
+tp3236
+a(VCentre-Back
+p3237
+VVarney K Kallon
+p3238
+tp3239
+a(VCentre-Back
+p3240
+VGouramangi Singh
+p3241
+tp3242
+a(VLeft-Back
+p3243
+VTondonba Singh
+p3244
+tp3245
+a(VRight-Back
+p3246
+VAshok Singh
+p3247
+tp3248
+a(VDefensive Midfield
+p3249
+VFabien Vorbe
+p3250
+tp3251
+a(VDefensive Midfield
+p3252
+VAryn Williams
+p3253
+tp3254
+a(VRight Midfield
+p3255
+VFelix Chidi Odili
+p3256
+tp3257
+a(VLeft Midfield
+p3258
+VAkhlidin Israilov
+p3259
+tp3260
+a(VAttacking Midfield
+p3261
+VYumnam Singh
+p3262
+tp3263
+a(VCentre-Forward
+p3264
+VSubash Singh
+p3265
+tp3266
+assI47
+(dp3267
+S'Ch. Brothers'
+p3268
+(lp3269
+(VGoalkeeper
+p3270
+VJames Kithan
+p3271
+tp3272
+a(VCentre-Back
+p3273
+VMonday Osagie
+p3274
+tp3275
+a(VCentre-Back
+p3276
+VHussein El Dor
+p3277
+tp3278
+a(VLeft-Back
+p3279
+VDenechandra Meitei
+p3280
+tp3281
+a(VRight-Back
+p3282
+VWayne Vaz
+p3283
+tp3284
+a(VCentral Midfield
+p3285
+VKalu Ogba
+p3286
+tp3287
+a(VCentral Midfield
+p3288
+VDawda Ceesay
+p3289
+tp3290
+a(VRight Midfield
+p3291
+VBritto PM
+p3292
+tp3293
+a(VLeft Midfield
+p3294
+VRichard Costa
+p3295
+tp3296
+a(VCentre-Forward
+p3297
+VUttam Rai
+p3298
+tp3299
+a(VCentre-Forward
+p3300
+VMéchac Koffi
+p3301
+tp3302
+asS'Shillong Lajong'
+p3303
+(lp3304
+(VGoalkeeper
+p3305
+VPhurba Lachenpa
+p3306
+tp3307
+a(VCentre-Back
+p3308
+VJoo-ho Oh
+p3309
+tp3310
+a(VCentre-Back
+p3311
+VLawrence Doe
+p3312
+tp3313
+a(VLeft-Back
+p3314
+VKenstar Kharshong
+p3315
+tp3316
+a(VRight-Back
+p3317
+VRakesh Pradhan
+p3318
+tp3319
+a(VCentral Midfield
+p3320
+VKynsai Khongsit
+p3321
+tp3322
+a(VCentral Midfield
+p3323
+VHardy Nongbri
+p3324
+tp3325
+a(VRight Midfield
+p3326
+VLalrohlua Fanai
+p3327
+tp3328
+a(VLeft Midfield
+p3329
+VSamuel Lalmuanpuia
+p3330
+tp3331
+a(VCentre-Forward
+p3332
+VSaihou Jagne
+p3333
+tp3334
+a(VCentre-Forward
+p3335
+VAbdoulaye Koffi
+p3336
+tp3337
+assI48
+(dp3338
+S'NEROCA FC'
+p3339
+(lp3340
+(VGoalkeeper
+p3341
+VShambhu Mistry
+p3342
+tp3343
+a(VCentre-Back
+p3344
+VVarney K Kallon
+p3345
+tp3346
+a(VCentre-Back
+p3347
+VGouramangi Singh
+p3348
+tp3349
+a(VLeft-Back
+p3350
+VTondonba Singh
+p3351
+tp3352
+a(VRight-Back
+p3353
+VAshok Singh
+p3354
+tp3355
+a(VDefensive Midfield
+p3356
+VFabien Vorbe
+p3357
+tp3358
+a(VDefensive Midfield
+p3359
+VAryn Williams
+p3360
+tp3361
+a(VRight Midfield
+p3362
+VFelix Chidi Odili
+p3363
+tp3364
+a(VLeft Midfield
+p3365
+VAkhlidin Israilov
+p3366
+tp3367
+a(VAttacking Midfield
+p3368
+VYumnam Singh
+p3369
+tp3370
+a(VCentre-Forward
+p3371
+VSubash Singh
+p3372
+tp3373
+asS'Aizawl FC'
+p3374
+(lp3375
+(VGoalkeeper
+p3376
+VAvilash Paul
+p3377
+tp3378
+a(VCentre-Back
+p3379
+VKareem Nurain
+p3380
+tp3381
+a(VCentre-Back
+p3382
+VLaldinliana Renthlei
+p3383
+tp3384
+a(VLeft-Back
+p3385
+VLalramhmunmawia
+p3386
+tp3387
+a(VRight-Back
+p3388
+VC Lalrosanga
+p3389
+tp3390
+a(VDefensive Midfield
+p3391
+VAlfred Jaryan
+p3392
+tp3393
+a(VDefensive Midfield
+p3394
+VPuitea
+p3395
+tp3396
+a(VRight Midfield
+p3397
+VLéonce Dodoz
+p3398
+tp3399
+a(VLeft Midfield
+p3400
+VAlbert Zohmingmawia
+p3401
+tp3402
+a(VAttacking Midfield
+p3403
+VAndrei Ionescu
+p3404
+tp3405
+a(VCentre-Forward
+p3406
+VYugo Kobayashi
+p3407
+tp3408
+assI49
+(dp3409
+S'Gokulam FC'
+p3410
+(lp3411
+(VGoalkeeper
+p3412
+VBilal Khan
+p3413
+tp3414
+a(VCentre-Back
+p3415
+VEmmanuel Chigozie
+p3416
+tp3417
+a(VCentre-Back
+p3418
+VDaniel Addo
+p3419
+tp3420
+a(VLeft-Back
+p3421
+VProvat Lakra
+p3422
+tp3423
+a(VRight-Back
+p3424
+VSantu Singh
+p3425
+tp3426
+a(VDefensive Midfield
+p3427
+VFrancis Xavier
+p3428
+tp3429
+a(VDefensive Midfield
+p3430
+VMusa Mudde
+p3431
+tp3432
+a(VRight Midfield
+p3433
+VMohammed Irshad
+p3434
+tp3435
+a(VLeft Midfield
+p3436
+VSalman K
+p3437
+tp3438
+a(VAttacking Midfield
+p3439
+VKivi Zhimomi
+p3440
+tp3441
+a(VCentre-Forward
+p3442
+VMahmood Al-Ajmi
+p3443
+tp3444
+asS'Chennai City'
+p3445
+(lp3446
+(VGoalkeeper
+p3447
+VVicky Baskaran
+p3448
+tp3449
+a(VCentre-Back
+p3450
+VVeniamin Shumeyko
+p3451
+tp3452
+a(VCentre-Back
+p3453
+VDharmaraj Ravanan
+p3454
+tp3455
+a(VLeft-Back
+p3456
+VSebastian Thangmuansang
+p3457
+tp3458
+a(VRight-Back
+p3459
+VShahabaaz Alam
+p3460
+tp3461
+a(VCentral Midfield
+p3462
+VSinivasan Pandiyan
+p3463
+tp3464
+a(VCentral Midfield
+p3465
+VMichael Soosairaj
+p3466
+tp3467
+a(VRight Midfield
+p3468
+VCharles Anandraj Lourdusamy
+p3469
+tp3470
+a(VLeft Midfield
+p3471
+VEdwin Sydney Vanspaul
+p3472
+tp3473
+a(VCentre-Forward
+p3474
+VJunior Joachim
+p3475
+tp3476
+a(VCentre-Forward
+p3477
+VMurilo Almeida
+p3478
+tp3479
+assI50
+(dp3480
+S'Mohun Bagan'
+p3481
+(lp3482
+(VGoalkeeper
+p3483
+VShilton Paul
+p3484
+tp3485
+a(VCentre-Back
+p3486
+VKingsley Obumneme
+p3487
+tp3488
+a(VCentre-Back
+p3489
+VKingshuk Debnath
+p3490
+tp3491
+a(VLeft-Back
+p3492
+VRicky Lallawmawma
+p3493
+tp3494
+a(VRight-Back
+p3495
+VArijit Bagui
+p3496
+tp3497
+a(VCentral Midfield
+p3498
+VCameron Watson
+p3499
+tp3500
+a(VCentral Midfield
+p3501
+VRaynier Fernandes
+p3502
+tp3503
+a(VRight Midfield
+p3504
+VSk Faiaz
+p3505
+tp3506
+a(VLeft Midfield
+p3507
+VNikhil Kadam
+p3508
+tp3509
+a(VCentre-Forward
+p3510
+VAser Pierrick Dipanda
+p3511
+tp3512
+a(VCentre-Forward
+p3513
+VAkram Moghrabi
+p3514
+tp3515
+asS'SC East Bengal'
+p3516
+(lp3517
+(VGoalkeeper
+p3518
+VLuis Barreto
+p3519
+tp3520
+a(VCentre-Back
+p3521
+VArnab Mondal
+p3522
+tp3523
+a(VCentre-Back
+p3524
+VEduardo
+p3525
+tp3526
+a(VLeft-Back
+p3527
+VSalam Singh
+p3528
+tp3529
+a(VRight-Back
+p3530
+VLalramchullova
+p3531
+tp3532
+a(VCentral Midfield
+p3533
+VMohammed Rafique
+p3534
+tp3535
+a(VCentral Midfield
+p3536
+VMahmoud Al Amenah
+p3537
+tp3538
+a(VRight Midfield
+p3539
+VPrakash Sarkar
+p3540
+tp3541
+a(VLeft Midfield
+p3542
+VKatsumi Yusa
+p3543
+tp3544
+a(VCentre-Forward
+p3545
+VWillis Plaza
+p3546
+tp3547
+a(VCentre-Forward
+p3548
+VDudu
+p3549
+tp3550
+assI51
+(dp3551
+S'Indian Arrows'
+p3552
+(lp3553
+(VGoalkeeper
+p3554
+VPrabhsukhan Singh Gill
+p3555
+tp3556
+a(VCentre-Back
+p3557
+VAnwar Ali
+p3558
+tp3559
+a(VCentre-Back
+p3560
+VJitendra Singh
+p3561
+tp3562
+a(VLeft-Back
+p3563
+VSanjeev Stalin
+p3564
+tp3565
+a(VRight-Back
+p3566
+VBoris Singh
+p3567
+tp3568
+a(VDefensive Midfield
+p3569
+VDeepak Tangri
+p3570
+tp3571
+a(VDefensive Midfield
+p3572
+VAmarjit Singh
+p3573
+tp3574
+a(VRight Midfield
+p3575
+VRahul KP
+p3576
+tp3577
+a(VLeft Midfield
+p3578
+VSuresh Singh
+p3579
+tp3580
+a(VAttacking Midfield
+p3581
+VAbhijit Sarkar
+p3582
+tp3583
+a(VCentre-Forward
+p3584
+VRahim Ali
+p3585
+tp3586
+asS'Ch. Brothers'
+p3587
+(lp3588
+(VGoalkeeper
+p3589
+VJames Kithan
+p3590
+tp3591
+a(VCentre-Back
+p3592
+VMonday Osagie
+p3593
+tp3594
+a(VCentre-Back
+p3595
+VHussein El Dor
+p3596
+tp3597
+a(VLeft-Back
+p3598
+VDenechandra Meitei
+p3599
+tp3600
+a(VRight-Back
+p3601
+VWayne Vaz
+p3602
+tp3603
+a(VCentral Midfield
+p3604
+VKalu Ogba
+p3605
+tp3606
+a(VCentral Midfield
+p3607
+VDawda Ceesay
+p3608
+tp3609
+a(VRight Midfield
+p3610
+VBritto PM
+p3611
+tp3612
+a(VLeft Midfield
+p3613
+VRichard Costa
+p3614
+tp3615
+a(VCentre-Forward
+p3616
+VUttam Rai
+p3617
+tp3618
+a(VCentre-Forward
+p3619
+VMéchac Koffi
+p3620
+tp3621
+assI52
+(dp3622
+S'NEROCA FC'
+p3623
+(lp3624
+(VGoalkeeper
+p3625
+VShambhu Mistry
+p3626
+tp3627
+a(VCentre-Back
+p3628
+VVarney K Kallon
+p3629
+tp3630
+a(VCentre-Back
+p3631
+VGouramangi Singh
+p3632
+tp3633
+a(VLeft-Back
+p3634
+VTondonba Singh
+p3635
+tp3636
+a(VRight-Back
+p3637
+VAshok Singh
+p3638
+tp3639
+a(VDefensive Midfield
+p3640
+VFabien Vorbe
+p3641
+tp3642
+a(VDefensive Midfield
+p3643
+VAryn Williams
+p3644
+tp3645
+a(VRight Midfield
+p3646
+VFelix Chidi Odili
+p3647
+tp3648
+a(VLeft Midfield
+p3649
+VRonald Ngangom
+p3650
+tp3651
+a(VAttacking Midfield
+p3652
+VNedo Turkovic
+p3653
+tp3654
+a(VCentre-Forward
+p3655
+VSubash Singh
+p3656
+tp3657
+asS'Shillong Lajong'
+p3658
+(lp3659
+(VGoalkeeper
+p3660
+VNidhin Lal
+p3661
+tp3662
+a(VCentre-Back
+p3663
+VJoo-ho Oh
+p3664
+tp3665
+a(VCentre-Back
+p3666
+VLawrence Doe
+p3667
+tp3668
+a(VLeft-Back
+p3669
+VKenstar Kharshong
+p3670
+tp3671
+a(VRight-Back
+p3672
+VRakesh Pradhan
+p3673
+tp3674
+a(VCentral Midfield
+p3675
+VDaniel Odafin
+p3676
+tp3677
+a(VCentral Midfield
+p3678
+VHardy Nongbri
+p3679
+tp3680
+a(VRight Midfield
+p3681
+VNovin Gurung
+p3682
+tp3683
+a(VLeft Midfield
+p3684
+VSamuel Lalmuanpuia
+p3685
+tp3686
+a(VCentre-Forward
+p3687
+VSaihou Jagne
+p3688
+tp3689
+a(VCentre-Forward
+p3690
+VAbdoulaye Koffi
+p3691
+tp3692
+assI53
+(dp3693
+S'Mohun Bagan'
+p3694
+(lp3695
+(VGoalkeeper
+p3696
+VShilton Paul
+p3697
+tp3698
+a(VCentre-Back
+p3699
+VKingsley Obumneme
+p3700
+tp3701
+a(VCentre-Back
+p3702
+VRana Gharami
+p3703
+tp3704
+a(VLeft-Back
+p3705
+VRicky Lallawmawma
+p3706
+tp3707
+a(VRight-Back
+p3708
+VArijit Bagui
+p3709
+tp3710
+a(VCentral Midfield
+p3711
+VCameron Watson
+p3712
+tp3713
+a(VCentral Midfield
+p3714
+VRaynier Fernandes
+p3715
+tp3716
+a(VRight Midfield
+p3717
+VSk Faiaz
+p3718
+tp3719
+a(VLeft Midfield
+p3720
+VNikhil Kadam
+p3721
+tp3722
+a(VCentre-Forward
+p3723
+VAser Pierrick Dipanda
+p3724
+tp3725
+a(VCentre-Forward
+p3726
+VAkram Moghrabi
+p3727
+tp3728
+asS'Aizawl FC'
+p3729
+(lp3730
+(VGoalkeeper
+p3731
+VAvilash Paul
+p3732
+tp3733
+a(VCentre-Back
+p3734
+VC Lalrosanga
+p3735
+tp3736
+a(VCentre-Back
+p3737
+VMasih Saighani
+p3738
+tp3739
+a(VLeft-Back
+p3740
+VLalhriatrenga
+p3741
+tp3742
+a(VRight-Back
+p3743
+VLaldinliana Renthlei
+p3744
+tp3745
+a(VDefensive Midfield
+p3746
+VAlfred Jaryan
+p3747
+tp3748
+a(VDefensive Midfield
+p3749
+VDavid Lalrinmuana
+p3750
+tp3751
+a(VRight Midfield
+p3752
+VLéonce Dodoz
+p3753
+tp3754
+a(VLeft Midfield
+p3755
+VAlbert Zohmingmawia
+p3756
+tp3757
+a(VAttacking Midfield
+p3758
+VAndrei Ionescu
+p3759
+tp3760
+a(VCentre-Forward
+p3761
+VYugo Kobayashi
+p3762
+tp3763
+assI54
+(dp3764
+S'NEROCA FC'
+p3765
+(lp3766
+(VGoalkeeper
+p3767
+VBishorjit Singh
+p3768
+tp3769
+a(VCentre-Back
+p3770
+VVarney K Kallon
+p3771
+tp3772
+a(VCentre-Back
+p3773
+VGouramangi Singh
+p3774
+tp3775
+a(VLeft-Back
+p3776
+VGovin Singh
+p3777
+tp3778
+a(VRight-Back
+p3779
+VNaoba Singh
+p3780
+tp3781
+a(VDefensive Midfield
+p3782
+VFabien Vorbe
+p3783
+tp3784
+a(VDefensive Midfield
+p3785
+VAryn Williams
+p3786
+tp3787
+a(VAttacking Midfield
+p3788
+VAkhlidin Israilov
+p3789
+tp3790
+a(VLeft Winger
+p3791
+VSubash Singh
+p3792
+tp3793
+a(VRight Winger
+p3794
+VYumnam Singh
+p3795
+tp3796
+a(VCentre-Forward
+p3797
+VFelix Chidi Odili
+p3798
+tp3799
+asS'Minerva Academy'
+p3800
+(lp3801
+(VGoalkeeper
+p3802
+VKiran Chemjong
+p3803
+tp3804
+a(VCentre-Back
+p3805
+VSukhdev Singh
+p3806
+tp3807
+a(VCentre-Back
+p3808
+VGuy Eric Dano
+p3809
+tp3810
+a(VLeft-Back
+p3811
+VAbhishek Ambekar
+p3812
+tp3813
+a(VRight-Back
+p3814
+VKamalpreet Singh
+p3815
+tp3816
+a(VCentral Midfield
+p3817
+VAmandeep Singh
+p3818
+tp3819
+a(VCentral Midfield
+p3820
+VKassim Aidara
+p3821
+tp3822
+a(VRight Midfield
+p3823
+VWilliam Opoku
+p3824
+tp3825
+a(VAttacking Midfield
+p3826
+VAltamash Sayed
+p3827
+tp3828
+a(VLeft Winger
+p3829
+VChencho Gyeltshen
+p3830
+tp3831
+a(VCentre-Forward
+p3832
+VBali Gagandeep
+p3833
+tp3834
+assI55
+(dp3835
+S'Indian Arrows'
+p3836
+(lp3837
+(VGoalkeeper
+p3838
+VPrabhsukhan Singh Gill
+p3839
+tp3840
+a(VCentre-Back
+p3841
+VAnwar Ali
+p3842
+tp3843
+a(VCentre-Back
+p3844
+VJitendra Singh
+p3845
+tp3846
+a(VLeft-Back
+p3847
+VSanjeev Stalin
+p3848
+tp3849
+a(VRight-Back
+p3850
+VAsish Rai
+p3851
+tp3852
+a(VDefensive Midfield
+p3853
+VSuresh Singh
+p3854
+tp3855
+a(VDefensive Midfield
+p3856
+VDeepak Tangri
+p3857
+tp3858
+a(VRight Midfield
+p3859
+VRahul KP
+p3860
+tp3861
+a(VLeft Midfield
+p3862
+VAniket Jadhav
+p3863
+tp3864
+a(VAttacking Midfield
+p3865
+VPrinceton Rebello
+p3866
+tp3867
+a(VCentre-Forward
+p3868
+VRahim Ali
+p3869
+tp3870
+asS'Chennai City'
+p3871
+(lp3872
+(VGoalkeeper
+p3873
+VUros Poljanec
+p3874
+tp3875
+a(VCentre-Back
+p3876
+VHenry Monsang
+p3877
+tp3878
+a(VCentre-Back
+p3879
+VDharmaraj Ravanan
+p3880
+tp3881
+a(VLeft-Back
+p3882
+VSebastian Thangmuansang
+p3883
+tp3884
+a(VRight-Back
+p3885
+VPradeep Mohanraj
+p3886
+tp3887
+a(VDefensive Midfield
+p3888
+VSinivasan Pandiyan
+p3889
+tp3890
+a(VDefensive Midfield
+p3891
+VAlexander Romario Jesuraj
+p3892
+tp3893
+a(VRight Midfield
+p3894
+VCharles Anandraj Lourdusamy
+p3895
+tp3896
+a(VLeft Midfield
+p3897
+VEdwin Sydney Vanspaul
+p3898
+tp3899
+a(VAttacking Midfield
+p3900
+VMichael Soosairaj
+p3901
+tp3902
+a(VCentre-Forward
+p3903
+VJunior Joachim
+p3904
+tp3905
+assI56
+(dp3906
+S'Shillong Lajong'
+p3907
+(lp3908
+(VGoalkeeper
+p3909
+VNidhin Lal
+p3910
+tp3911
+a(VCentre-Back
+p3912
+VJoo-ho Oh
+p3913
+tp3914
+a(VCentre-Back
+p3915
+VLawrence Doe
+p3916
+tp3917
+a(VLeft-Back
+p3918
+VKenstar Kharshong
+p3919
+tp3920
+a(VRight-Back
+p3921
+VRakesh Pradhan
+p3922
+tp3923
+a(VCentral Midfield
+p3924
+VDaniel Odafin
+p3925
+tp3926
+a(VCentral Midfield
+p3927
+VHardy Nongbri
+p3928
+tp3929
+a(VRight Midfield
+p3930
+VNovin Gurung
+p3931
+tp3932
+a(VLeft Midfield
+p3933
+VSamuel Lalmuanpuia
+p3934
+tp3935
+a(VCentre-Forward
+p3936
+VSaihou Jagne
+p3937
+tp3938
+a(VCentre-Forward
+p3939
+VAbdoulaye Koffi
+p3940
+tp3941
+asS'Gokulam FC'
+p3942
+(lp3943
+(VGoalkeeper
+p3944
+VBilal Khan
+p3945
+tp3946
+a(VCentre-Back
+p3947
+VEmmanuel Chigozie
+p3948
+tp3949
+a(VCentre-Back
+p3950
+VDaniel Addo
+p3951
+tp3952
+a(VLeft-Back
+p3953
+VM.D. Dibin
+p3954
+tp3955
+a(VRight-Back
+p3956
+VSantu Singh
+p3957
+tp3958
+a(VDefensive Midfield
+p3959
+VKawrtethawveng Laldampuia
+p3960
+tp3961
+a(VDefensive Midfield
+p3962
+VMusa Mudde
+p3963
+tp3964
+a(VRight Midfield
+p3965
+VMohammed Irshad
+p3966
+tp3967
+a(VLeft Midfield
+p3968
+VSalman K
+p3969
+tp3970
+a(VAttacking Midfield
+p3971
+VKivi Zhimomi
+p3972
+tp3973
+a(VCentre-Forward
+p3974
+VMahmood Al-Ajmi
+p3975
+tp3976
+assI57
+(dp3977
+S'SC East Bengal'
+p3978
+(lp3979
+(VGoalkeeper
+p3980
+VUbaid C.K.
+p3981
+tp3982
+a(VCentre-Back
+p3983
+VEduardo
+p3984
+tp3985
+a(VCentre-Back
+p3986
+VSalam Singh
+p3987
+tp3988
+a(VLeft-Back
+p3989
+VDeepak K
+p3990
+tp3991
+a(VRight-Back
+p3992
+VMehtab Singh
+p3993
+tp3994
+a(VDefensive Midfield
+p3995
+VBazie Armand
+p3996
+tp3997
+a(VRight Midfield
+p3998
+VDanmawia
+p3999
+tp4000
+a(VLeft Midfield
+p4001
+VKatsumi Yusa
+p4002
+tp4003
+a(VAttacking Midfield
+p4004
+VCavin Lobo
+p4005
+tp4006
+a(VCentre-Forward
+p4007
+VDudu
+p4008
+tp4009
+a(VCentre-Forward
+p4010
+VJoby Justin
+p4011
+tp4012
+asS'Minerva Academy'
+p4013
+(lp4014
+(VGoalkeeper
+p4015
+VKiran Chemjong
+p4016
+tp4017
+a(VCentre-Back
+p4018
+VSukhdev Singh
+p4019
+tp4020
+a(VCentre-Back
+p4021
+VGuy Eric Dano
+p4022
+tp4023
+a(VLeft-Back
+p4024
+VDeepak Devrani
+p4025
+tp4026
+a(VRight-Back
+p4027
+VKamalpreet Singh
+p4028
+tp4029
+a(VDefensive Midfield
+p4030
+VAmandeep Singh
+p4031
+tp4032
+a(VDefensive Midfield
+p4033
+VKassim Aidara
+p4034
+tp4035
+a(VRight Midfield
+p4036
+VWilliam Opoku
+p4037
+tp4038
+a(VLeft Midfield
+p4039
+VChencho Gyeltshen
+p4040
+tp4041
+a(VAttacking Midfield
+p4042
+VSouvik Das
+p4043
+tp4044
+a(VCentre-Forward
+p4045
+VBali Gagandeep
+p4046
+tp4047
+assI58
+(dp4048
+S'Ch. Brothers'
+p4049
+(lp4050
+(VGoalkeeper
+p4051
+VJames Kithan
+p4052
+tp4053
+a(VCentre-Back
+p4054
+VMonday Osagie
+p4055
+tp4056
+a(VCentre-Back
+p4057
+VHussein El Dor
+p4058
+tp4059
+a(VLeft-Back
+p4060
+VDenechandra Meitei
+p4061
+tp4062
+a(VRight-Back
+p4063
+VWayne Vaz
+p4064
+tp4065
+a(VCentral Midfield
+p4066
+VKalu Ogba
+p4067
+tp4068
+a(VCentral Midfield
+p4069
+VDawda Ceesay
+p4070
+tp4071
+a(VRight Midfield
+p4072
+VBritto PM
+p4073
+tp4074
+a(VLeft Midfield
+p4075
+VRichard Costa
+p4076
+tp4077
+a(VCentre-Forward
+p4078
+VUttam Rai
+p4079
+tp4080
+a(VCentre-Forward
+p4081
+VMéchac Koffi
+p4082
+tp4083
+asS'NEROCA FC'
+p4084
+(lp4085
+(VGoalkeeper
+p4086
+VBishorjit Singh
+p4087
+tp4088
+a(VCentre-Back
+p4089
+VVarney K Kallon
+p4090
+tp4091
+a(VCentre-Back
+p4092
+VGouramangi Singh
+p4093
+tp4094
+a(VLeft-Back
+p4095
+VTondonba Singh
+p4096
+tp4097
+a(VRight-Back
+p4098
+VMoirangthem Dhananjoy Singh
+p4099
+tp4100
+a(VDefensive Midfield
+p4101
+VAryn Williams
+p4102
+tp4103
+a(VDefensive Midfield
+p4104
+VThangjam Singh
+p4105
+tp4106
+a(VRight Midfield
+p4107
+VFelix Chidi Odili
+p4108
+tp4109
+a(VLeft Midfield
+p4110
+VPritam Singh
+p4111
+tp4112
+a(VAttacking Midfield
+p4113
+VFabien Vorbe
+p4114
+tp4115
+a(VCentre-Forward
+p4116
+VSubash Singh
+p4117
+tp4118
+assI59
+(dp4119
+S'Ch. Brothers'
+p4120
+(lp4121
+(VGoalkeeper
+p4122
+VJames Kithan
+p4123
+tp4124
+a(VCentre-Back
+p4125
+VMonday Osagie
+p4126
+tp4127
+a(VCentre-Back
+p4128
+VWayne Vaz
+p4129
+tp4130
+a(VLeft-Back
+p4131
+VDenechandra Meitei
+p4132
+tp4133
+a(VRight-Back
+p4134
+VBektur Talgat uulu
+p4135
+tp4136
+a(VCentral Midfield
+p4137
+VDawda Ceesay
+p4138
+tp4139
+a(VCentral Midfield
+p4140
+VNicholas Fernandes
+p4141
+tp4142
+a(VRight Midfield
+p4143
+VRichard Costa
+p4144
+tp4145
+a(VLeft Midfield
+p4146
+VHussein El Dor
+p4147
+tp4148
+a(VCentre-Forward
+p4149
+VHarshad Naik
+p4150
+tp4151
+a(VCentre-Forward
+p4152
+VMéchac Koffi
+p4153
+tp4154
+asS'Minerva Academy'
+p4155
+(lp4156
+(VGoalkeeper
+p4157
+VKiran Chemjong
+p4158
+tp4159
+a(VCentre-Back
+p4160
+VSukhdev Singh
+p4161
+tp4162
+a(VCentre-Back
+p4163
+VGuy Eric Dano
+p4164
+tp4165
+a(VLeft-Back
+p4166
+VAbhishek Ambekar
+p4167
+tp4168
+a(VRight-Back
+p4169
+VKamalpreet Singh
+p4170
+tp4171
+a(VCentral Midfield
+p4172
+VAmandeep Singh
+p4173
+tp4174
+a(VCentral Midfield
+p4175
+VKassim Aidara
+p4176
+tp4177
+a(VRight Midfield
+p4178
+VBali Gagandeep
+p4179
+tp4180
+a(VLeft Midfield
+p4181
+VChencho Gyeltshen
+p4182
+tp4183
+a(VAttacking Midfield
+p4184
+VWilliam Opoku
+p4185
+tp4186
+a(VCentre-Forward
+p4187
+VMoinuddin Khan
+p4188
+tp4189
+assI60
+(dp4190
+S'Aizawl FC'
+p4191
+(lp4192
+(VGoalkeeper
+p4193
+VAvilash Paul
+p4194
+tp4195
+a(VCentre-Back
+p4196
+VMasih Saighani
+p4197
+tp4198
+a(VCentre-Back
+p4199
+VLaldinliana Renthlei
+p4200
+tp4201
+a(VLeft-Back
+p4202
+VLalhriatrenga
+p4203
+tp4204
+a(VRight-Back
+p4205
+VC Lalrosanga
+p4206
+tp4207
+a(VDefensive Midfield
+p4208
+VPuitea
+p4209
+tp4210
+a(VDefensive Midfield
+p4211
+VDavid Lalrinmuana
+p4212
+tp4213
+a(VRight Midfield
+p4214
+VLéonce Dodoz
+p4215
+tp4216
+a(VLeft Midfield
+p4217
+VShylo Malsawmtluanga
+p4218
+tp4219
+a(VAttacking Midfield
+p4220
+VAndrei Ionescu
+p4221
+tp4222
+a(VCentre-Forward
+p4223
+VYugo Kobayashi
+p4224
+tp4225
+asS'Chennai City'
+p4226
+(lp4227
+(VGoalkeeper
+p4228
+VUros Poljanec
+p4229
+tp4230
+a(VCentre-Back
+p4231
+VVeniamin Shumeyko
+p4232
+tp4233
+a(VCentre-Back
+p4234
+VDharmaraj Ravanan
+p4235
+tp4236
+a(VLeft-Back
+p4237
+VClintu Cleetus
+p4238
+tp4239
+a(VRight-Back
+p4240
+VSebastian Thangmuansang
+p4241
+tp4242
+a(VCentral Midfield
+p4243
+VCharles Anandraj Lourdusamy
+p4244
+tp4245
+a(VCentral Midfield
+p4246
+VSinivasan Pandiyan
+p4247
+tp4248
+a(VRight Midfield
+p4249
+VAlexander Romario Jesuraj
+p4250
+tp4251
+a(VLeft Midfield
+p4252
+VEdwin Sydney Vanspaul
+p4253
+tp4254
+a(VAttacking Midfield
+p4255
+VMichael Soosairaj
+p4256
+tp4257
+a(VCentre-Forward
+p4258
+VJunior Joachim
+p4259
+tp4260
+assI61
+(dp4261
+S'Mohun Bagan'
+p4262
+(lp4263
+(VGoalkeeper
+p4264
+VShilton Paul
+p4265
+tp4266
+a(VCentre-Back
+p4267
+VKingsley Obumneme
+p4268
+tp4269
+a(VCentre-Back
+p4270
+VRana Gharami
+p4271
+tp4272
+a(VLeft-Back
+p4273
+VRicky Lallawmawma
+p4274
+tp4275
+a(VRight-Back
+p4276
+VArijit Bagui
+p4277
+tp4278
+a(VCentral Midfield
+p4279
+VYuta Kinowaki
+p4280
+tp4281
+a(VCentral Midfield
+p4282
+VCameron Watson
+p4283
+tp4284
+a(VRight Midfield
+p4285
+VNikhil Kadam
+p4286
+tp4287
+a(VLeft Midfield
+p4288
+VAzharuddin Mallick
+p4289
+tp4290
+a(VCentre-Forward
+p4291
+VAser Pierrick Dipanda
+p4292
+tp4293
+a(VCentre-Forward
+p4294
+VAkram Moghrabi
+p4295
+tp4296
+asS'Shillong Lajong'
+p4297
+(lp4298
+(VGoalkeeper
+p4299
+VPhurba Lachenpa
+p4300
+tp4301
+a(VCentre-Back
+p4302
+VJoo-ho Oh
+p4303
+tp4304
+a(VCentre-Back
+p4305
+VLawrence Doe
+p4306
+tp4307
+a(VLeft-Back
+p4308
+VKenstar Kharshong
+p4309
+tp4310
+a(VRight-Back
+p4311
+VRakesh Pradhan
+p4312
+tp4313
+a(VCentral Midfield
+p4314
+VLalrohlua Fanai
+p4315
+tp4316
+a(VCentral Midfield
+p4317
+VDaniel Odafin
+p4318
+tp4319
+a(VRight Midfield
+p4320
+VNovin Gurung
+p4321
+tp4322
+a(VLeft Midfield
+p4323
+VSamuel Lalmuanpuia
+p4324
+tp4325
+a(VCentre-Forward
+p4326
+VSaihou Jagne
+p4327
+tp4328
+a(VCentre-Forward
+p4329
+VAbdoulaye Koffi
+p4330
+tp4331
+assI62
+(dp4332
+S'NEROCA FC'
+p4333
+(lp4334
+(VGoalkeeper
+p4335
+VBishorjit Singh
+p4336
+tp4337
+a(VCentre-Back
+p4338
+VVarney K Kallon
+p4339
+tp4340
+a(VCentre-Back
+p4341
+VGouramangi Singh
+p4342
+tp4343
+a(VLeft-Back
+p4344
+VTondonba Singh
+p4345
+tp4346
+a(VRight-Back
+p4347
+VMoirangthem Dhananjoy Singh
+p4348
+tp4349
+a(VDefensive Midfield
+p4350
+VAryn Williams
+p4351
+tp4352
+a(VDefensive Midfield
+p4353
+VThangjam Singh
+p4354
+tp4355
+a(VRight Midfield
+p4356
+VFelix Chidi Odili
+p4357
+tp4358
+a(VLeft Midfield
+p4359
+VPritam Singh
+p4360
+tp4361
+a(VAttacking Midfield
+p4362
+VFabien Vorbe
+p4363
+tp4364
+a(VCentre-Forward
+p4365
+VSubash Singh
+p4366
+tp4367
+asS'Gokulam FC'
+p4368
+(lp4369
+(VGoalkeeper
+p4370
+VBilal Khan
+p4371
+tp4372
+a(VCentre-Back
+p4373
+VEmmanuel Chigozie
+p4374
+tp4375
+a(VCentre-Back
+p4376
+VMusa Mudde
+p4377
+tp4378
+a(VLeft-Back
+p4379
+VM.D. Dibin
+p4380
+tp4381
+a(VRight-Back
+p4382
+VBalwinder Singh
+p4383
+tp4384
+a(VDefensive Midfield
+p4385
+VKawrtethawveng Laldampuia
+p4386
+tp4387
+a(VDefensive Midfield
+p4388
+VArjun Jayaraj
+p4389
+tp4390
+a(VRight Midfield
+p4391
+VMohammed Irshad
+p4392
+tp4393
+a(VLeft Midfield
+p4394
+VSalman K
+p4395
+tp4396
+a(VAttacking Midfield
+p4397
+VMahmood Al-Ajmi
+p4398
+tp4399
+a(VCentre-Forward
+p4400
+VHenry Kisekka
+p4401
+tp4402
+assI63
+(dp4403
+S'Indian Arrows'
+p4404
+(lp4405
+(VGoalkeeper
+p4406
+VPrabhsukhan Singh Gill
+p4407
+tp4408
+a(VCentre-Back
+p4409
+VAnwar Ali
+p4410
+tp4411
+a(VCentre-Back
+p4412
+VJitendra Singh
+p4413
+tp4414
+a(VLeft-Back
+p4415
+VSanjeev Stalin
+p4416
+tp4417
+a(VRight-Back
+p4418
+VAsish Rai
+p4419
+tp4420
+a(VDefensive Midfield
+p4421
+VDeepak Tangri
+p4422
+tp4423
+a(VDefensive Midfield
+p4424
+VAmarjit Singh
+p4425
+tp4426
+a(VRight Midfield
+p4427
+VRahul KP
+p4428
+tp4429
+a(VLeft Midfield
+p4430
+VAniket Jadhav
+p4431
+tp4432
+a(VAttacking Midfield
+p4433
+VAbhijit Sarkar
+p4434
+tp4435
+a(VCentre-Forward
+p4436
+VRahim Ali
+p4437
+tp4438
+asS'SC East Bengal'
+p4439
+(lp4440
+(VGoalkeeper
+p4441
+VUbaid C.K.
+p4442
+tp4443
+a(VCentre-Back
+p4444
+VSalam Singh
+p4445
+tp4446
+a(VCentre-Back
+p4447
+VEduardo
+p4448
+tp4449
+a(VLeft-Back
+p4450
+VLalramchullova
+p4451
+tp4452
+a(VRight-Back
+p4453
+VMehtab Singh
+p4454
+tp4455
+a(VCentral Midfield
+p4456
+VCavin Lobo
+p4457
+tp4458
+a(VCentral Midfield
+p4459
+VAnsumana Kromah
+p4460
+tp4461
+a(VRight Midfield
+p4462
+VDanmawia
+p4463
+tp4464
+a(VLeft Midfield
+p4465
+VKatsumi Yusa
+p4466
+tp4467
+a(VCentre-Forward
+p4468
+VDudu
+p4469
+tp4470
+a(VCentre-Forward
+p4471
+VJoby Justin
+p4472
+tp4473
+assI64
+(dp4474
+S'Ch. Brothers'
+p4475
+(lp4476
+(VGoalkeeper
+p4477
+VJames Kithan
+p4478
+tp4479
+a(VCentre-Back
+p4480
+VSuraj Singh
+p4481
+tp4482
+a(VCentre-Back
+p4483
+VMonday Osagie
+p4484
+tp4485
+a(VLeft-Back
+p4486
+VDenechandra Meitei
+p4487
+tp4488
+a(VRight-Back
+p4489
+VWayne Vaz
+p4490
+tp4491
+a(VDefensive Midfield
+p4492
+VHussein El Dor
+p4493
+tp4494
+a(VDefensive Midfield
+p4495
+VBektur Talgat uulu
+p4496
+tp4497
+a(VRight Midfield
+p4498
+VHarshad Naik
+p4499
+tp4500
+a(VLeft Midfield
+p4501
+VNicholas Fernandes
+p4502
+tp4503
+a(VAttacking Midfield
+p4504
+VDawda Ceesay
+p4505
+tp4506
+a(VCentre-Forward
+p4507
+VMéchac Koffi
+p4508
+tp4509
+asS'Aizawl FC'
+p4510
+(lp4511
+(VGoalkeeper
+p4512
+VAvilash Paul
+p4513
+tp4514
+a(VCentre-Back
+p4515
+VMasih Saighani
+p4516
+tp4517
+a(VCentre-Back
+p4518
+VLaldinliana Renthlei
+p4519
+tp4520
+a(VLeft-Back
+p4521
+VLalramhmunmawia
+p4522
+tp4523
+a(VRight-Back
+p4524
+VC Lalrosanga
+p4525
+tp4526
+a(VDefensive Midfield
+p4527
+VLiandala Sena Fanai
+p4528
+tp4529
+a(VDefensive Midfield
+p4530
+VAlfred Jaryan
+p4531
+tp4532
+a(VRight Midfield
+p4533
+VLéonce Dodoz
+p4534
+tp4535
+a(VLeft Midfield
+p4536
+VAlbert Zohmingmawia
+p4537
+tp4538
+a(VAttacking Midfield
+p4539
+VAndrei Ionescu
+p4540
+tp4541
+a(VCentre-Forward
+p4542
+VYugo Kobayashi
+p4543
+tp4544
+assI65
+(dp4545
+S'Shillong Lajong'
+p4546
+(lp4547
+(VGoalkeeper
+p4548
+VPhurba Lachenpa
+p4549
+tp4550
+a(VCentre-Back
+p4551
+VAibanbha Dohling
+p4552
+tp4553
+a(VCentre-Back
+p4554
+VLawrence Doe
+p4555
+tp4556
+a(VLeft-Back
+p4557
+VKenstar Kharshong
+p4558
+tp4559
+a(VRight-Back
+p4560
+VRakesh Pradhan
+p4561
+tp4562
+a(VCentral Midfield
+p4563
+VNovin Gurung
+p4564
+tp4565
+a(VCentral Midfield
+p4566
+VDaniel Odafin
+p4567
+tp4568
+a(VRight Midfield
+p4569
+VLalrohlua Fanai
+p4570
+tp4571
+a(VLeft Midfield
+p4572
+VSamuel Lalmuanpuia
+p4573
+tp4574
+a(VCentre-Forward
+p4575
+VSaihou Jagne
+p4576
+tp4577
+a(VCentre-Forward
+p4578
+VAbdoulaye Koffi
+p4579
+tp4580
+asS'Minerva Academy'
+p4581
+(lp4582
+(VGoalkeeper
+p4583
+VRakshit Dagar
+p4584
+tp4585
+a(VCentre-Back
+p4586
+VSukhdev Singh
+p4587
+tp4588
+a(VCentre-Back
+p4589
+VGuy Eric Dano
+p4590
+tp4591
+a(VLeft-Back
+p4592
+VAbhishek Ambekar
+p4593
+tp4594
+a(VRight-Back
+p4595
+VKamalpreet Singh
+p4596
+tp4597
+a(VDefensive Midfield
+p4598
+VAmandeep Singh
+p4599
+tp4600
+a(VDefensive Midfield
+p4601
+VKassim Aidara
+p4602
+tp4603
+a(VRight Midfield
+p4604
+VWilliam Opoku
+p4605
+tp4606
+a(VLeft Midfield
+p4607
+VChencho Gyeltshen
+p4608
+tp4609
+a(VAttacking Midfield
+p4610
+VBazie Armand
+p4611
+tp4612
+a(VCentre-Forward
+p4613
+VBali Gagandeep
+p4614
+tp4615
+assI66
+(dp4616
+S'Mohun Bagan'
+p4617
+(lp4618
+(VGoalkeeper
+p4619
+VShilton Paul
+p4620
+tp4621
+a(VCentre-Back
+p4622
+VKingsley Obumneme
+p4623
+tp4624
+a(VCentre-Back
+p4625
+VRana Gharami
+p4626
+tp4627
+a(VLeft-Back
+p4628
+VRicky Lallawmawma
+p4629
+tp4630
+a(VRight-Back
+p4631
+VArijit Bagui
+p4632
+tp4633
+a(VCentral Midfield
+p4634
+VYuta Kinowaki
+p4635
+tp4636
+a(VCentral Midfield
+p4637
+VRaynier Fernandes
+p4638
+tp4639
+a(VRight Midfield
+p4640
+VNikhil Kadam
+p4641
+tp4642
+a(VLeft Midfield
+p4643
+VAzharuddin Mallick
+p4644
+tp4645
+a(VCentre-Forward
+p4646
+VAser Pierrick Dipanda
+p4647
+tp4648
+a(VCentre-Forward
+p4649
+VAkram Moghrabi
+p4650
+tp4651
+asS'Chennai City'
+p4652
+(lp4653
+(VGoalkeeper
+p4654
+VUros Poljanec
+p4655
+tp4656
+a(VCentre-Back
+p4657
+VVeniamin Shumeyko
+p4658
+tp4659
+a(VCentre-Back
+p4660
+VDharmaraj Ravanan
+p4661
+tp4662
+a(VLeft-Back
+p4663
+VEdwin Sydney Vanspaul
+p4664
+tp4665
+a(VRight-Back
+p4666
+VTarif Akhand
+p4667
+tp4668
+a(VCentral Midfield
+p4669
+VDong-hyeon Kim
+p4670
+tp4671
+a(VCentral Midfield
+p4672
+VSinivasan Pandiyan
+p4673
+tp4674
+a(VRight Midfield
+p4675
+VAsif Kottayil
+p4676
+tp4677
+a(VLeft Midfield
+p4678
+VMichael Soosairaj
+p4679
+tp4680
+a(VCentre-Forward
+p4681
+VAleksandar Rakic
+p4682
+tp4683
+a(VCentre-Forward
+p4684
+VJunior Joachim
+p4685
+tp4686
+assI67
+(dp4687
+S'NEROCA FC'
+p4688
+(lp4689
+(VGoalkeeper
+p4690
+VBishorjit Singh
+p4691
+tp4692
+a(VCentre-Back
+p4693
+VVarney K Kallon
+p4694
+tp4695
+a(VCentre-Back
+p4696
+VGouramangi Singh
+p4697
+tp4698
+a(VLeft-Back
+p4699
+VTondonba Singh
+p4700
+tp4701
+a(VRight-Back
+p4702
+VGovin Singh
+p4703
+tp4704
+a(VDefensive Midfield
+p4705
+VFabien Vorbe
+p4706
+tp4707
+a(VDefensive Midfield
+p4708
+VThangjam Singh
+p4709
+tp4710
+a(VRight Midfield
+p4711
+VFelix Chidi Odili
+p4712
+tp4713
+a(VLeft Midfield
+p4714
+VYumnam Singh
+p4715
+tp4716
+a(VAttacking Midfield
+p4717
+VNedo Turkovic
+p4718
+tp4719
+a(VCentre-Forward
+p4720
+VSubash Singh
+p4721
+tp4722
+asS'Aizawl FC'
+p4723
+(lp4724
+(VGoalkeeper
+p4725
+VAvilash Paul
+p4726
+tp4727
+a(VCentre-Back
+p4728
+VLiandala Sena Fanai
+p4729
+tp4730
+a(VCentre-Back
+p4731
+VMasih Saighani
+p4732
+tp4733
+a(VLeft-Back
+p4734
+VLalramhmunmawia
+p4735
+tp4736
+a(VRight-Back
+p4737
+VLaldinliana Renthlei
+p4738
+tp4739
+a(VDefensive Midfield
+p4740
+VAlfred Jaryan
+p4741
+tp4742
+a(VDefensive Midfield
+p4743
+VDavid Lalrinmuana
+p4744
+tp4745
+a(VRight Midfield
+p4746
+VPuitea
+p4747
+tp4748
+a(VLeft Midfield
+p4749
+VShylo Malsawmtluanga
+p4750
+tp4751
+a(VAttacking Midfield
+p4752
+VAndrei Ionescu
+p4753
+tp4754
+a(VCentre-Forward
+p4755
+VLéonce Dodoz
+p4756
+tp4757
+assI68
+(dp4758
+S'Indian Arrows'
+p4759
+(lp4760
+(VGoalkeeper
+p4761
+VPrabhsukhan Singh Gill
+p4762
+tp4763
+a(VCentre-Back
+p4764
+VAnwar Ali
+p4765
+tp4766
+a(VCentre-Back
+p4767
+VJitendra Singh
+p4768
+tp4769
+a(VLeft-Back
+p4770
+VSanjeev Stalin
+p4771
+tp4772
+a(VRight-Back
+p4773
+VAsish Rai
+p4774
+tp4775
+a(VDefensive Midfield
+p4776
+VDeepak Tangri
+p4777
+tp4778
+a(VDefensive Midfield
+p4779
+VAmarjit Singh
+p4780
+tp4781
+a(VRight Midfield
+p4782
+VRahul KP
+p4783
+tp4784
+a(VLeft Midfield
+p4785
+VNongdamba Naorem
+p4786
+tp4787
+a(VAttacking Midfield
+p4788
+VPrinceton Rebello
+p4789
+tp4790
+a(VCentre-Forward
+p4791
+VAniket Jadhav
+p4792
+tp4793
+asS'Ch. Brothers'
+p4794
+(lp4795
+(VGoalkeeper
+p4796
+VJames Kithan
+p4797
+tp4798
+a(VCentre-Back
+p4799
+VSuraj Singh
+p4800
+tp4801
+a(VCentre-Back
+p4802
+VMonday Osagie
+p4803
+tp4804
+a(VLeft-Back
+p4805
+VDenechandra Meitei
+p4806
+tp4807
+a(VRight-Back
+p4808
+VWayne Vaz
+p4809
+tp4810
+a(VDefensive Midfield
+p4811
+VHussein El Dor
+p4812
+tp4813
+a(VDefensive Midfield
+p4814
+VKalu Ogba
+p4815
+tp4816
+a(VRight Midfield
+p4817
+VHarshad Naik
+p4818
+tp4819
+a(VLeft Midfield
+p4820
+VNicholas Fernandes
+p4821
+tp4822
+a(VAttacking Midfield
+p4823
+VDawda Ceesay
+p4824
+tp4825
+a(VCentre-Forward
+p4826
+VMéchac Koffi
+p4827
+tp4828
+assI69
+(dp4829
+S'Shillong Lajong'
+p4830
+(lp4831
+(VGoalkeeper
+p4832
+VNidhin Lal
+p4833
+tp4834
+a(VCentre-Back
+p4835
+VAibanbha Dohling
+p4836
+tp4837
+a(VCentre-Back
+p4838
+VJoo-ho Oh
+p4839
+tp4840
+a(VLeft-Back
+p4841
+VKenstar Kharshong
+p4842
+tp4843
+a(VRight-Back
+p4844
+VRakesh Pradhan
+p4845
+tp4846
+a(VCentral Midfield
+p4847
+VDaniel Odafin
+p4848
+tp4849
+a(VCentral Midfield
+p4850
+VHardy Nongbri
+p4851
+tp4852
+a(VRight Midfield
+p4853
+VAlen Deory
+p4854
+tp4855
+a(VLeft Midfield
+p4856
+VSamuel Lalmuanpuia
+p4857
+tp4858
+a(VCentre-Forward
+p4859
+VSaihou Jagne
+p4860
+tp4861
+a(VCentre-Forward
+p4862
+VAbdoulaye Koffi
+p4863
+tp4864
+asS'Chennai City'
+p4865
+(lp4866
+(VGoalkeeper
+p4867
+VKabir T
+p4868
+tp4869
+a(VCentre-Back
+p4870
+VDharmaraj Ravanan
+p4871
+tp4872
+a(VCentre-Back
+p4873
+VVeniamin Shumeyko
+p4874
+tp4875
+a(VLeft-Back
+p4876
+VAsif Kottayil
+p4877
+tp4878
+a(VRight-Back
+p4879
+VTarif Akhand
+p4880
+tp4881
+a(VCentral Midfield
+p4882
+VDong-hyeon Kim
+p4883
+tp4884
+a(VCentral Midfield
+p4885
+VSinivasan Pandiyan
+p4886
+tp4887
+a(VRight Midfield
+p4888
+VEdwin Sydney Vanspaul
+p4889
+tp4890
+a(VLeft Midfield
+p4891
+VMichael Soosairaj
+p4892
+tp4893
+a(VCentre-Forward
+p4894
+VAleksandar Rakic
+p4895
+tp4896
+a(VCentre-Forward
+p4897
+VJunior Joachim
+p4898
+tp4899
+assI70
+(dp4900
+S'Mohun Bagan'
+p4901
+(lp4902
+(VGoalkeeper
+p4903
+VShilton Paul
+p4904
+tp4905
+a(VCentre-Back
+p4906
+VKingsley Obumneme
+p4907
+tp4908
+a(VCentre-Back
+p4909
+VRana Gharami
+p4910
+tp4911
+a(VLeft-Back
+p4912
+VRicky Lallawmawma
+p4913
+tp4914
+a(VRight-Back
+p4915
+VArijit Bagui
+p4916
+tp4917
+a(VCentral Midfield
+p4918
+VCameron Watson
+p4919
+tp4920
+a(VCentral Midfield
+p4921
+VRaynier Fernandes
+p4922
+tp4923
+a(VRight Midfield
+p4924
+VNikhil Kadam
+p4925
+tp4926
+a(VLeft Midfield
+p4927
+VSk Faiaz
+p4928
+tp4929
+a(VCentre-Forward
+p4930
+VAser Pierrick Dipanda
+p4931
+tp4932
+a(VCentre-Forward
+p4933
+VAkram Moghrabi
+p4934
+tp4935
+asS'Gokulam FC'
+p4936
+(lp4937
+(VGoalkeeper
+p4938
+VBilal Khan
+p4939
+tp4940
+a(VCentre-Back
+p4941
+VEmmanuel Chigozie
+p4942
+tp4943
+a(VCentre-Back
+p4944
+VDaniel Addo
+p4945
+tp4946
+a(VLeft-Back
+p4947
+VProvat Lakra
+p4948
+tp4949
+a(VRight-Back
+p4950
+VMohammed Irshad
+p4951
+tp4952
+a(VCentral Midfield
+p4953
+VMusa Mudde
+p4954
+tp4955
+a(VCentral Midfield
+p4956
+VMuhammed Rashid
+p4957
+tp4958
+a(VRight Midfield
+p4959
+VSalman K
+p4960
+tp4961
+a(VLeft Midfield
+p4962
+VKivi Zhimomi
+p4963
+tp4964
+a(VCentre-Forward
+p4965
+VMahmood Al-Ajmi
+p4966
+tp4967
+a(VCentre-Forward
+p4968
+VHenry Kisekka
+p4969
+tp4970
+assI71
+(dp4971
+S'SC East Bengal'
+p4972
+(lp4973
+(VGoalkeeper
+p4974
+VUbaid C.K.
+p4975
+tp4976
+a(VCentre-Back
+p4977
+VArnab Mondal
+p4978
+tp4979
+a(VCentre-Back
+p4980
+VEduardo
+p4981
+tp4982
+a(VLeft-Back
+p4983
+VLalramchullova
+p4984
+tp4985
+a(VRight-Back
+p4986
+VSalam Singh
+p4987
+tp4988
+a(VDefensive Midfield
+p4989
+VKatsumi Yusa
+p4990
+tp4991
+a(VCentral Midfield
+p4992
+VCavin Lobo
+p4993
+tp4994
+a(VCentral Midfield
+p4995
+VMahmoud Al Amenah
+p4996
+tp4997
+a(VRight Midfield
+p4998
+VDanmawia
+p4999
+tp5000
+a(VLeft Midfield
+p5001
+VYami Longvah
+p5002
+tp5003
+a(VCentre-Forward
+p5004
+VDudu
+p5005
+tp5006
+asS'Minerva Academy'
+p5007
+(lp5008
+(VGoalkeeper
+p5009
+VRakshit Dagar
+p5010
+tp5011
+a(VCentre-Back
+p5012
+VSukhdev Singh
+p5013
+tp5014
+a(VCentre-Back
+p5015
+VGuy Eric Dano
+p5016
+tp5017
+a(VLeft-Back
+p5018
+VAmandeep Singh
+p5019
+tp5020
+a(VRight-Back
+p5021
+VKamalpreet Singh
+p5022
+tp5023
+a(VCentral Midfield
+p5024
+VSouvik Das
+p5025
+tp5026
+a(VCentral Midfield
+p5027
+VKassim Aidara
+p5028
+tp5029
+a(VRight Midfield
+p5030
+VWilliam Opoku
+p5031
+tp5032
+a(VLeft Midfield
+p5033
+VChencho Gyeltshen
+p5034
+tp5035
+a(VAttacking Midfield
+p5036
+VBazie Armand
+p5037
+tp5038
+a(VCentre-Forward
+p5039
+VBali Gagandeep
+p5040
+tp5041
+assI72
+(dp5042
+S'NEROCA FC'
+p5043
+(lp5044
+(VGoalkeeper
+p5045
+VBishorjit Singh
+p5046
+tp5047
+a(VCentre-Back
+p5048
+VVarney K Kallon
+p5049
+tp5050
+a(VCentre-Back
+p5051
+VGouramangi Singh
+p5052
+tp5053
+a(VLeft-Back
+p5054
+VTondonba Singh
+p5055
+tp5056
+a(VRight-Back
+p5057
+VAshok Singh
+p5058
+tp5059
+a(VDefensive Midfield
+p5060
+VAryn Williams
+p5061
+tp5062
+a(VDefensive Midfield
+p5063
+VThangjam Singh
+p5064
+tp5065
+a(VRight Midfield
+p5066
+VYumnam Singh
+p5067
+tp5068
+a(VLeft Midfield
+p5069
+VSubash Singh
+p5070
+tp5071
+a(VAttacking Midfield
+p5072
+VFabien Vorbe
+p5073
+tp5074
+a(VCentre-Forward
+p5075
+VNedo Turkovic
+p5076
+tp5077
+asS'Ch. Brothers'
+p5078
+(lp5079
+(VGoalkeeper
+p5080
+VJames Kithan
+p5081
+tp5082
+a(VCentre-Back
+p5083
+VMonday Osagie
+p5084
+tp5085
+a(VCentre-Back
+p5086
+VHussein El Dor
+p5087
+tp5088
+a(VLeft-Back
+p5089
+VDenechandra Meitei
+p5090
+tp5091
+a(VRight-Back
+p5092
+VWayne Vaz
+p5093
+tp5094
+a(VDefensive Midfield
+p5095
+VKalu Ogba
+p5096
+tp5097
+a(VDefensive Midfield
+p5098
+VBektur Talgat uulu
+p5099
+tp5100
+a(VRight Midfield
+p5101
+VBritto PM
+p5102
+tp5103
+a(VLeft Midfield
+p5104
+VNicholas Fernandes
+p5105
+tp5106
+a(VAttacking Midfield
+p5107
+VDawda Ceesay
+p5108
+tp5109
+a(VCentre-Forward
+p5110
+VHarshad Naik
+p5111
+tp5112
+assI73
+(dp5113
+S'Indian Arrows'
+p5114
+(lp5115
+(VGoalkeeper
+p5116
+VPrabhsukhan Singh Gill
+p5117
+tp5118
+a(VCentre-Back
+p5119
+VAnwar Ali
+p5120
+tp5121
+a(VCentre-Back
+p5122
+VJitendra Singh
+p5123
+tp5124
+a(VLeft-Back
+p5125
+VSanjeev Stalin
+p5126
+tp5127
+a(VRight-Back
+p5128
+VAsish Rai
+p5129
+tp5130
+a(VDefensive Midfield
+p5131
+VDeepak Tangri
+p5132
+tp5133
+a(VDefensive Midfield
+p5134
+VAmarjit Singh
+p5135
+tp5136
+a(VRight Midfield
+p5137
+VRahul KP
+p5138
+tp5139
+a(VLeft Midfield
+p5140
+VNongdamba Naorem
+p5141
+tp5142
+a(VAttacking Midfield
+p5143
+VPrinceton Rebello
+p5144
+tp5145
+a(VCentre-Forward
+p5146
+VEdmund Lalrindika
+p5147
+tp5148
+asS'Aizawl FC'
+p5149
+(lp5150
+(VGoalkeeper
+p5151
+VAvilash Paul
+p5152
+tp5153
+a(VCentre-Back
+p5154
+VC Lalrosanga
+p5155
+tp5156
+a(VCentre-Back
+p5157
+VMasih Saighani
+p5158
+tp5159
+a(VLeft-Back
+p5160
+VLalramhmunmawia
+p5161
+tp5162
+a(VRight-Back
+p5163
+VLaldinliana Renthlei
+p5164
+tp5165
+a(VDefensive Midfield
+p5166
+VAlfred Jaryan
+p5167
+tp5168
+a(VDefensive Midfield
+p5169
+VDavid Lalrinmuana
+p5170
+tp5171
+a(VRight Midfield
+p5172
+VPuitea
+p5173
+tp5174
+a(VLeft Midfield
+p5175
+VAlbert Zohmingmawia
+p5176
+tp5177
+a(VAttacking Midfield
+p5178
+VAndrei Ionescu
+p5179
+tp5180
+a(VCentre-Forward
+p5181
+VLéonce Dodoz
+p5182
+tp5183
+assI74
+(dp5184
+S'Gokulam FC'
+p5185
+(lp5186
+(VGoalkeeper
+p5187
+VBilal Khan
+p5188
+tp5189
+a(VCentre-Back
+p5190
+VEmmanuel Chigozie
+p5191
+tp5192
+a(VCentre-Back
+p5193
+VDaniel Addo
+p5194
+tp5195
+a(VLeft-Back
+p5196
+VProvat Lakra
+p5197
+tp5198
+a(VRight-Back
+p5199
+VMuhammed Rashid
+p5200
+tp5201
+a(VDefensive Midfield
+p5202
+VMusa Mudde
+p5203
+tp5204
+a(VRight Midfield
+p5205
+VMohammed Irshad
+p5206
+tp5207
+a(VLeft Midfield
+p5208
+VSalman K
+p5209
+tp5210
+a(VAttacking Midfield
+p5211
+VMahmood Al-Ajmi
+p5212
+tp5213
+a(VCentre-Forward
+p5214
+VKivi Zhimomi
+p5215
+tp5216
+a(VCentre-Forward
+p5217
+VHenry Kisekka
+p5218
+tp5219
+asS'SC East Bengal'
+p5220
+(lp5221
+(VGoalkeeper
+p5222
+VUbaid C.K.
+p5223
+tp5224
+a(VCentre-Back
+p5225
+VArnab Mondal
+p5226
+tp5227
+a(VCentre-Back
+p5228
+VEduardo
+p5229
+tp5230
+a(VLeft-Back
+p5231
+VLalramchullova
+p5232
+tp5233
+a(VRight-Back
+p5234
+VSamad Mallick
+p5235
+tp5236
+a(VCentral Midfield
+p5237
+VKatsumi Yusa
+p5238
+tp5239
+a(VCentral Midfield
+p5240
+VMahmoud Al Amenah
+p5241
+tp5242
+a(VRight Midfield
+p5243
+VDanmawia
+p5244
+tp5245
+a(VLeft Midfield
+p5246
+VYami Longvah
+p5247
+tp5248
+a(VAttacking Midfield
+p5249
+VCavin Lobo
+p5250
+tp5251
+a(VCentre-Forward
+p5252
+VDudu
+p5253
+tp5254
+assI75
+(dp5255
+S'Ch. Brothers'
+p5256
+(lp5257
+(VGoalkeeper
+p5258
+VJames Kithan
+p5259
+tp5260
+a(VCentre-Back
+p5261
+VMonday Osagie
+p5262
+tp5263
+a(VCentre-Back
+p5264
+VHussein El Dor
+p5265
+tp5266
+a(VLeft-Back
+p5267
+VDenechandra Meitei
+p5268
+tp5269
+a(VRight-Back
+p5270
+VIsrail Gurung
+p5271
+tp5272
+a(VDefensive Midfield
+p5273
+VKalu Ogba
+p5274
+tp5275
+a(VDefensive Midfield
+p5276
+VBritto PM
+p5277
+tp5278
+a(VRight Midfield
+p5279
+VUttam Rai
+p5280
+tp5281
+a(VLeft Midfield
+p5282
+VNicholas Fernandes
+p5283
+tp5284
+a(VCentre-Forward
+p5285
+VDawda Ceesay
+p5286
+tp5287
+a(VCentre-Forward
+p5288
+VMéchac Koffi
+p5289
+tp5290
+asS'Chennai City'
+p5291
+(lp5292
+(VGoalkeeper
+p5293
+VKabir T
+p5294
+tp5295
+a(VCentre-Back
+p5296
+VVeniamin Shumeyko
+p5297
+tp5298
+a(VCentre-Back
+p5299
+VDharmaraj Ravanan
+p5300
+tp5301
+a(VLeft-Back
+p5302
+VEdwin Sydney Vanspaul
+p5303
+tp5304
+a(VRight-Back
+p5305
+VTarif Akhand
+p5306
+tp5307
+a(VDefensive Midfield
+p5308
+VSinivasan Pandiyan
+p5309
+tp5310
+a(VDefensive Midfield
+p5311
+VAntony Beautin
+p5312
+tp5313
+a(VRight Midfield
+p5314
+VAlexander Romario Jesuraj
+p5315
+tp5316
+a(VLeft Midfield
+p5317
+VMichael Soosairaj
+p5318
+tp5319
+a(VAttacking Midfield
+p5320
+VDong-hyeon Kim
+p5321
+tp5322
+a(VCentre-Forward
+p5323
+VAleksandar Rakic
+p5324
+tp5325
+assI76
+(dp5326
+S'Mohun Bagan'
+p5327
+(lp5328
+(VGoalkeeper
+p5329
+VShilton Paul
+p5330
+tp5331
+a(VCentre-Back
+p5332
+VKingsley Obumneme
+p5333
+tp5334
+a(VCentre-Back
+p5335
+VKingshuk Debnath
+p5336
+tp5337
+a(VLeft-Back
+p5338
+VRicky Lallawmawma
+p5339
+tp5340
+a(VRight-Back
+p5341
+VArijit Bagui
+p5342
+tp5343
+a(VCentral Midfield
+p5344
+VYuta Kinowaki
+p5345
+tp5346
+a(VCentral Midfield
+p5347
+VCameron Watson
+p5348
+tp5349
+a(VRight Midfield
+p5350
+VNikhil Kadam
+p5351
+tp5352
+a(VLeft Midfield
+p5353
+VAzharuddin Mallick
+p5354
+tp5355
+a(VCentre-Forward
+p5356
+VAser Pierrick Dipanda
+p5357
+tp5358
+a(VCentre-Forward
+p5359
+VAkram Moghrabi
+p5360
+tp5361
+asS'NEROCA FC'
+p5362
+(lp5363
+(VGoalkeeper
+p5364
+VBishorjit Singh
+p5365
+tp5366
+a(VCentre-Back
+p5367
+VVarney K Kallon
+p5368
+tp5369
+a(VCentre-Back
+p5370
+VGouramangi Singh
+p5371
+tp5372
+a(VLeft-Back
+p5373
+VTondonba Singh
+p5374
+tp5375
+a(VRight-Back
+p5376
+VAshok Singh
+p5377
+tp5378
+a(VDefensive Midfield
+p5379
+VAryn Williams
+p5380
+tp5381
+a(VDefensive Midfield
+p5382
+VThangjam Singh
+p5383
+tp5384
+a(VRight Midfield
+p5385
+VFelix Chidi Odili
+p5386
+tp5387
+a(VLeft Midfield
+p5388
+VYumnam Singh
+p5389
+tp5390
+a(VAttacking Midfield
+p5391
+VFabien Vorbe
+p5392
+tp5393
+a(VCentre-Forward
+p5394
+VSubash Singh
+p5395
+tp5396
+assI77
+(dp5397
+S'Shillong Lajong'
+p5398
+(lp5399
+(VGoalkeeper
+p5400
+VNidhin Lal
+p5401
+tp5402
+a(VCentre-Back
+p5403
+VAibanbha Dohling
+p5404
+tp5405
+a(VCentre-Back
+p5406
+VJoo-ho Oh
+p5407
+tp5408
+a(VLeft-Back
+p5409
+VRakesh Pradhan
+p5410
+tp5411
+a(VRight-Back
+p5412
+VKenstar Kharshong
+p5413
+tp5414
+a(VCentral Midfield
+p5415
+VDaniel Odafin
+p5416
+tp5417
+a(VCentral Midfield
+p5418
+VHardy Nongbri
+p5419
+tp5420
+a(VRight Midfield
+p5421
+VNovin Gurung
+p5422
+tp5423
+a(VLeft Midfield
+p5424
+VKynsai Khongsit
+p5425
+tp5426
+a(VCentre-Forward
+p5427
+VSaihou Jagne
+p5428
+tp5429
+a(VCentre-Forward
+p5430
+VSamuel Lalmuanpuia
+p5431
+tp5432
+asS'Aizawl FC'
+p5433
+(lp5434
+(VGoalkeeper
+p5435
+VAvilash Paul
+p5436
+tp5437
+a(VCentre-Back
+p5438
+VLalchhawnkima
+p5439
+tp5440
+a(VCentre-Back
+p5441
+VValpuia
+p5442
+tp5443
+a(VLeft-Back
+p5444
+VLalramhmunmawia
+p5445
+tp5446
+a(VRight-Back
+p5447
+VLaldinliana Renthlei
+p5448
+tp5449
+a(VDefensive Midfield
+p5450
+VAlfred Jaryan
+p5451
+tp5452
+a(VDefensive Midfield
+p5453
+VDavid Lalrinmuana
+p5454
+tp5455
+a(VRight Midfield
+p5456
+VPuitea
+p5457
+tp5458
+a(VLeft Midfield
+p5459
+VAlbert Zohmingmawia
+p5460
+tp5461
+a(VAttacking Midfield
+p5462
+VAndrei Ionescu
+p5463
+tp5464
+a(VCentre-Forward
+p5465
+VLéonce Dodoz
+p5466
+tp5467
+assI78
+(dp5468
+S'Gokulam FC'
+p5469
+(lp5470
+(VGoalkeeper
+p5471
+VBilal Khan
+p5472
+tp5473
+a(VCentre-Back
+p5474
+VShinu
+p5475
+tp5476
+a(VCentre-Back
+p5477
+VDaniel Addo
+p5478
+tp5479
+a(VLeft-Back
+p5480
+VProvat Lakra
+p5481
+tp5482
+a(VRight-Back
+p5483
+VBalwinder Singh
+p5484
+tp5485
+a(VDefensive Midfield
+p5486
+VMusa Mudde
+p5487
+tp5488
+a(VDefensive Midfield
+p5489
+VArjun Jayaraj
+p5490
+tp5491
+a(VRight Midfield
+p5492
+VMuhammed Rashid
+p5493
+tp5494
+a(VLeft Midfield
+p5495
+VSalman K
+p5496
+tp5497
+a(VAttacking Midfield
+p5498
+VKivi Zhimomi
+p5499
+tp5500
+a(VCentre-Forward
+p5501
+VHenry Kisekka
+p5502
+tp5503
+asS'Minerva Academy'
+p5504
+(lp5505
+(VGoalkeeper
+p5506
+VKiran Chemjong
+p5507
+tp5508
+a(VCentre-Back
+p5509
+VSukhdev Singh
+p5510
+tp5511
+a(VCentre-Back
+p5512
+VGuy Eric Dano
+p5513
+tp5514
+a(VLeft-Back
+p5515
+VAkashdeep Singh
+p5516
+tp5517
+a(VRight-Back
+p5518
+VKamalpreet Singh
+p5519
+tp5520
+a(VDefensive Midfield
+p5521
+VRandeep Singh
+p5522
+tp5523
+a(VDefensive Midfield
+p5524
+VKassim Aidara
+p5525
+tp5526
+a(VRight Midfield
+p5527
+VAakash Sangwan
+p5528
+tp5529
+a(VLeft Midfield
+p5530
+VChencho Gyeltshen
+p5531
+tp5532
+a(VAttacking Midfield
+p5533
+VWilliam Opoku
+p5534
+tp5535
+a(VCentre-Forward
+p5536
+VBali Gagandeep
+p5537
+tp5538
+assI79
+(dp5539
+S'Indian Arrows'
+p5540
+(lp5541
+(VGoalkeeper
+p5542
+VPrabhsukhan Singh Gill
+p5543
+tp5544
+a(VCentre-Back
+p5545
+VAnwar Ali
+p5546
+tp5547
+a(VCentre-Back
+p5548
+VDeepak Tangri
+p5549
+tp5550
+a(VLeft-Back
+p5551
+VSanjeev Stalin
+p5552
+tp5553
+a(VRight-Back
+p5554
+VBoris Singh
+p5555
+tp5556
+a(VDefensive Midfield
+p5557
+VSuresh Singh
+p5558
+tp5559
+a(VCentral Midfield
+p5560
+VApuia
+p5561
+tp5562
+a(VRight Midfield
+p5563
+VNamgyal Bhutia
+p5564
+tp5565
+a(VLeft Midfield
+p5566
+VNongdamba Naorem
+p5567
+tp5568
+a(VAttacking Midfield
+p5569
+VJeakson Singh
+p5570
+tp5571
+a(VCentre-Forward
+p5572
+VEdmund Lalrindika
+p5573
+tp5574
+asS'Aizawl FC'
+p5575
+(lp5576
+(VGoalkeeper
+p5577
+VAvilash Paul
+p5578
+tp5579
+a(VCentre-Back
+p5580
+VLalrozama Fanai
+p5581
+tp5582
+a(VCentre-Back
+p5583
+VLalchhawnkima
+p5584
+tp5585
+a(VLeft-Back
+p5586
+VLalramhmunmawia
+p5587
+tp5588
+a(VRight-Back
+p5589
+VLaldinliana Renthlei
+p5590
+tp5591
+a(VDefensive Midfield
+p5592
+VValpuia
+p5593
+tp5594
+a(VDefensive Midfield
+p5595
+VAlfred Jaryan
+p5596
+tp5597
+a(VRight Midfield
+p5598
+VLéonce Dodoz
+p5599
+tp5600
+a(VLeft Midfield
+p5601
+VPuitea
+p5602
+tp5603
+a(VAttacking Midfield
+p5604
+VAndrei Ionescu
+p5605
+tp5606
+a(VCentre-Forward
+p5607
+VLalkhawpuimawia
+p5608
+tp5609
+assI80
+(dp5610
+S'SC East Bengal'
+p5611
+(lp5612
+(VGoalkeeper
+p5613
+VUbaid C.K.
+p5614
+tp5615
+a(VCentre-Back
+p5616
+VGurwinder Singh
+p5617
+tp5618
+a(VCentre-Back
+p5619
+VEduardo
+p5620
+tp5621
+a(VLeft-Back
+p5622
+VLalramchullova
+p5623
+tp5624
+a(VRight-Back
+p5625
+VMehtab Singh
+p5626
+tp5627
+a(VCentral Midfield
+p5628
+VCavin Lobo
+p5629
+tp5630
+a(VCentral Midfield
+p5631
+VMahmoud Al Amenah
+p5632
+tp5633
+a(VRight Midfield
+p5634
+VKatsumi Yusa
+p5635
+tp5636
+a(VLeft Midfield
+p5637
+VBrandon Vanlalremdika
+p5638
+tp5639
+a(VCentre-Forward
+p5640
+VDudu
+p5641
+tp5642
+a(VCentre-Forward
+p5643
+VAnsumana Kromah
+p5644
+tp5645
+asS'Chennai City'
+p5646
+(lp5647
+(VGoalkeeper
+p5648
+VKabir T
+p5649
+tp5650
+a(VCentre-Back
+p5651
+VDharmaraj Ravanan
+p5652
+tp5653
+a(VCentre-Back
+p5654
+VVeniamin Shumeyko
+p5655
+tp5656
+a(VLeft-Back
+p5657
+VAsif Kottayil
+p5658
+tp5659
+a(VRight-Back
+p5660
+VAlexander Romario Jesuraj
+p5661
+tp5662
+a(VDefensive Midfield
+p5663
+VDong-hyeon Kim
+p5664
+tp5665
+a(VDefensive Midfield
+p5666
+VSinivasan Pandiyan
+p5667
+tp5668
+a(VRight Midfield
+p5669
+VAntony Beautin
+p5670
+tp5671
+a(VLeft Midfield
+p5672
+VEdwin Sydney Vanspaul
+p5673
+tp5674
+a(VAttacking Midfield
+p5675
+VMichael Soosairaj
+p5676
+tp5677
+a(VCentre-Forward
+p5678
+VAleksandar Rakic
+p5679
+tp5680
+assI81
+(dp5681
+S'Ch. Brothers'
+p5682
+(lp5683
+(VGoalkeeper
+p5684
+VJames Kithan
+p5685
+tp5686
+a(VCentre-Back
+p5687
+VMonday Osagie
+p5688
+tp5689
+a(VCentre-Back
+p5690
+VHussein El Dor
+p5691
+tp5692
+a(VLeft-Back
+p5693
+VDenechandra Meitei
+p5694
+tp5695
+a(VRight-Back
+p5696
+VWayne Vaz
+p5697
+tp5698
+a(VCentral Midfield
+p5699
+VRichard Costa
+p5700
+tp5701
+a(VCentral Midfield
+p5702
+VDawda Ceesay
+p5703
+tp5704
+a(VRight Midfield
+p5705
+VOnyeama Okechukwu
+p5706
+tp5707
+a(VLeft Midfield
+p5708
+VIsrail Gurung
+p5709
+tp5710
+a(VCentre-Forward
+p5711
+VUttam Rai
+p5712
+tp5713
+a(VCentre-Forward
+p5714
+VSiyo Zunapio
+p5715
+tp5716
+asS'Gokulam FC'
+p5717
+(lp5718
+(VGoalkeeper
+p5719
+VBilal Khan
+p5720
+tp5721
+a(VCentre-Back
+p5722
+VEmmanuel Chigozie
+p5723
+tp5724
+a(VCentre-Back
+p5725
+VDaniel Addo
+p5726
+tp5727
+a(VLeft-Back
+p5728
+VProvat Lakra
+p5729
+tp5730
+a(VRight-Back
+p5731
+VSalman K
+p5732
+tp5733
+a(VDefensive Midfield
+p5734
+VMusa Mudde
+p5735
+tp5736
+a(VDefensive Midfield
+p5737
+VMuhammed Rashid
+p5738
+tp5739
+a(VRight Midfield
+p5740
+VMohammed Irshad
+p5741
+tp5742
+a(VLeft Midfield
+p5743
+VArjun Jayaraj
+p5744
+tp5745
+a(VAttacking Midfield
+p5746
+VKivi Zhimomi
+p5747
+tp5748
+a(VCentre-Forward
+p5749
+VHenry Kisekka
+p5750
+tp5751
+assI82
+(dp5752
+S'Aizawl FC'
+p5753
+(lp5754
+(VGoalkeeper
+p5755
+VAvilash Paul
+p5756
+tp5757
+a(VCentre-Back
+p5758
+VLalchhawnkima
+p5759
+tp5760
+a(VCentre-Back
+p5761
+VValpuia
+p5762
+tp5763
+a(VLeft-Back
+p5764
+VLalrozama Fanai
+p5765
+tp5766
+a(VRight-Back
+p5767
+VLaldinliana Renthlei
+p5768
+tp5769
+a(VDefensive Midfield
+p5770
+VAlfred Jaryan
+p5771
+tp5772
+a(VDefensive Midfield
+p5773
+VPuitea
+p5774
+tp5775
+a(VRight Midfield
+p5776
+VLéonce Dodoz
+p5777
+tp5778
+a(VLeft Midfield
+p5779
+VLalramhmunmawia
+p5780
+tp5781
+a(VAttacking Midfield
+p5782
+VAndrei Ionescu
+p5783
+tp5784
+a(VCentre-Forward
+p5785
+VLalkhawpuimawia
+p5786
+tp5787
+asS'Minerva Academy'
+p5788
+(lp5789
+(VGoalkeeper
+p5790
+VKiran Chemjong
+p5791
+tp5792
+a(VCentre-Back
+p5793
+VSukhdev Singh
+p5794
+tp5795
+a(VCentre-Back
+p5796
+VGuy Eric Dano
+p5797
+tp5798
+a(VLeft-Back
+p5799
+VAkashdeep Singh
+p5800
+tp5801
+a(VRight-Back
+p5802
+VKamalpreet Singh
+p5803
+tp5804
+a(VDefensive Midfield
+p5805
+VAmandeep Singh
+p5806
+tp5807
+a(VDefensive Midfield
+p5808
+VKassim Aidara
+p5809
+tp5810
+a(VRight Midfield
+p5811
+VAakash Sangwan
+p5812
+tp5813
+a(VLeft Midfield
+p5814
+VChencho Gyeltshen
+p5815
+tp5816
+a(VAttacking Midfield
+p5817
+VWilliam Opoku
+p5818
+tp5819
+a(VCentre-Forward
+p5820
+VBali Gagandeep
+p5821
+tp5822
+assI83
+(dp5823
+S'Indian Arrows'
+p5824
+(lp5825
+(VGoalkeeper
+p5826
+VPrabhsukhan Singh Gill
+p5827
+tp5828
+a(VCentre-Back
+p5829
+VAnwar Ali
+p5830
+tp5831
+a(VCentre-Back
+p5832
+VJitendra Singh
+p5833
+tp5834
+a(VLeft-Back
+p5835
+VSanjeev Stalin
+p5836
+tp5837
+a(VRight-Back
+p5838
+VAsish Rai
+p5839
+tp5840
+a(VDefensive Midfield
+p5841
+VDeepak Tangri
+p5842
+tp5843
+a(VDefensive Midfield
+p5844
+VAmarjit Singh
+p5845
+tp5846
+a(VRight Midfield
+p5847
+VRahul KP
+p5848
+tp5849
+a(VLeft Midfield
+p5850
+VNongdamba Naorem
+p5851
+tp5852
+a(VAttacking Midfield
+p5853
+VApuia
+p5854
+tp5855
+a(VCentre-Forward
+p5856
+VRahim Ali
+p5857
+tp5858
+asS'Mohun Bagan'
+p5859
+(lp5860
+(VGoalkeeper
+p5861
+VShilton Paul
+p5862
+tp5863
+a(VCentre-Back
+p5864
+VKingsley Obumneme
+p5865
+tp5866
+a(VCentre-Back
+p5867
+VRana Gharami
+p5868
+tp5869
+a(VLeft-Back
+p5870
+VRicky Lallawmawma
+p5871
+tp5872
+a(VRight-Back
+p5873
+VArijit Bagui
+p5874
+tp5875
+a(VCentral Midfield
+p5876
+VYuta Kinowaki
+p5877
+tp5878
+a(VCentral Midfield
+p5879
+VCameron Watson
+p5880
+tp5881
+a(VRight Midfield
+p5882
+VNikhil Kadam
+p5883
+tp5884
+a(VLeft Midfield
+p5885
+VAzharuddin Mallick
+p5886
+tp5887
+a(VCentre-Forward
+p5888
+VAser Pierrick Dipanda
+p5889
+tp5890
+a(VCentre-Forward
+p5891
+VAkram Moghrabi
+p5892
+tp5893
+assI84
+(dp5894
+S'Gokulam FC'
+p5895
+(lp5896
+(VGoalkeeper
+p5897
+VBilal Khan
+p5898
+tp5899
+a(VCentre-Back
+p5900
+VEmmanuel Chigozie
+p5901
+tp5902
+a(VCentre-Back
+p5903
+VDaniel Addo
+p5904
+tp5905
+a(VLeft-Back
+p5906
+VProvat Lakra
+p5907
+tp5908
+a(VRight-Back
+p5909
+VSalman K
+p5910
+tp5911
+a(VDefensive Midfield
+p5912
+VMusa Mudde
+p5913
+tp5914
+a(VDefensive Midfield
+p5915
+VMuhammed Rashid
+p5916
+tp5917
+a(VRight Midfield
+p5918
+VMohammed Irshad
+p5919
+tp5920
+a(VLeft Midfield
+p5921
+VArjun Jayaraj
+p5922
+tp5923
+a(VAttacking Midfield
+p5924
+VMahmood Al-Ajmi
+p5925
+tp5926
+a(VCentre-Forward
+p5927
+VHenry Kisekka
+p5928
+tp5929
+asS'Aizawl FC'
+p5930
+(lp5931
+(VGoalkeeper
+p5932
+VLalawmpuia
+p5933
+tp5934
+a(VCentre-Back
+p5935
+VLalchhawnkima
+p5936
+tp5937
+a(VCentre-Back
+p5938
+VMasih Saighani
+p5939
+tp5940
+a(VLeft-Back
+p5941
+VLalrozama Fanai
+p5942
+tp5943
+a(VRight-Back
+p5944
+VLaldinliana Renthlei
+p5945
+tp5946
+a(VDefensive Midfield
+p5947
+VValpuia
+p5948
+tp5949
+a(VDefensive Midfield
+p5950
+VAlfred Jaryan
+p5951
+tp5952
+a(VRight Midfield
+p5953
+VLéonce Dodoz
+p5954
+tp5955
+a(VLeft Midfield
+p5956
+VAlbert Zohmingmawia
+p5957
+tp5958
+a(VAttacking Midfield
+p5959
+VAndrei Ionescu
+p5960
+tp5961
+a(VCentre-Forward
+p5962
+VLalkhawpuimawia
+p5963
+tp5964
+assI85
+(dp5965
+S'Chennai City'
+p5966
+(lp5967
+(VGoalkeeper
+p5968
+VKabir T
+p5969
+tp5970
+a(VCentre-Back
+p5971
+VVeniamin Shumeyko
+p5972
+tp5973
+a(VCentre-Back
+p5974
+VDharmaraj Ravanan
+p5975
+tp5976
+a(VLeft-Back
+p5977
+VPradeep Mohanraj
+p5978
+tp5979
+a(VRight-Back
+p5980
+VSebastian Thangmuansang
+p5981
+tp5982
+a(VDefensive Midfield
+p5983
+VDong-hyeon Kim
+p5984
+tp5985
+a(VDefensive Midfield
+p5986
+VAsif Kottayil
+p5987
+tp5988
+a(VRight Midfield
+p5989
+VGaurav Bora
+p5990
+tp5991
+a(VLeft Midfield
+p5992
+VEdwin Sydney Vanspaul
+p5993
+tp5994
+a(VAttacking Midfield
+p5995
+VMichael Soosairaj
+p5996
+tp5997
+a(VCentre-Forward
+p5998
+VAleksandar Rakic
+p5999
+tp6000
+asS'Minerva Academy'
+p6001
+(lp6002
+(VGoalkeeper
+p6003
+VKiran Chemjong
+p6004
+tp6005
+a(VCentre-Back
+p6006
+VSukhdev Singh
+p6007
+tp6008
+a(VCentre-Back
+p6009
+VGuy Eric Dano
+p6010
+tp6011
+a(VLeft-Back
+p6012
+VAkashdeep Singh
+p6013
+tp6014
+a(VRight-Back
+p6015
+VKamalpreet Singh
+p6016
+tp6017
+a(VDefensive Midfield
+p6018
+VSouvik Das
+p6019
+tp6020
+a(VDefensive Midfield
+p6021
+VKassim Aidara
+p6022
+tp6023
+a(VRight Midfield
+p6024
+VAmandeep Singh
+p6025
+tp6026
+a(VLeft Midfield
+p6027
+VChencho Gyeltshen
+p6028
+tp6029
+a(VAttacking Midfield
+p6030
+VWilliam Opoku
+p6031
+tp6032
+a(VCentre-Forward
+p6033
+VAakash Sangwan
+p6034
+tp6035
+assI86
+(dp6036
+S'Mohun Bagan'
+p6037
+(lp6038
+(VGoalkeeper
+p6039
+VShilton Paul
+p6040
+tp6041
+a(VCentre-Back
+p6042
+VKingsley Obumneme
+p6043
+tp6044
+a(VCentre-Back
+p6045
+VKingshuk Debnath
+p6046
+tp6047
+a(VLeft-Back
+p6048
+VGurjinder Kumar
+p6049
+tp6050
+a(VRight-Back
+p6051
+VArijit Bagui
+p6052
+tp6053
+a(VCentral Midfield
+p6054
+VYuta Kinowaki
+p6055
+tp6056
+a(VCentral Midfield
+p6057
+VCameron Watson
+p6058
+tp6059
+a(VRight Midfield
+p6060
+VNikhil Kadam
+p6061
+tp6062
+a(VLeft Midfield
+p6063
+VAzharuddin Mallick
+p6064
+tp6065
+a(VCentre-Forward
+p6066
+VAser Pierrick Dipanda
+p6067
+tp6068
+a(VCentre-Forward
+p6069
+VAkram Moghrabi
+p6070
+tp6071
+asS'Ch. Brothers'
+p6072
+(lp6073
+(VGoalkeeper
+p6074
+VJames Kithan
+p6075
+tp6076
+a(VCentre-Back
+p6077
+VMonday Osagie
+p6078
+tp6079
+a(VCentre-Back
+p6080
+VHussein El Dor
+p6081
+tp6082
+a(VLeft-Back
+p6083
+VDenechandra Meitei
+p6084
+tp6085
+a(VRight-Back
+p6086
+VIsrail Gurung
+p6087
+tp6088
+a(VCentral Midfield
+p6089
+VRichard Costa
+p6090
+tp6091
+a(VCentral Midfield
+p6092
+VDawda Ceesay
+p6093
+tp6094
+a(VRight Midfield
+p6095
+VBritto PM
+p6096
+tp6097
+a(VLeft Midfield
+p6098
+VUttam Rai
+p6099
+tp6100
+a(VCentre-Forward
+p6101
+VOnyeama Okechukwu
+p6102
+tp6103
+a(VCentre-Forward
+p6104
+VSiyo Zunapio
+p6105
+tp6106
+assI87
+(dp6107
+S'Shillong Lajong'
+p6108
+(lp6109
+(VGoalkeeper
+p6110
+VNidhin Lal
+p6111
+tp6112
+a(VSweeper
+p6113
+VJoo-ho Oh
+p6114
+tp6115
+a(VCentre-Back
+p6116
+VAibanbha Dohling
+p6117
+tp6118
+a(VCentre-Back
+p6119
+VKenstar Kharshong
+p6120
+tp6121
+a(VLeft-Back
+p6122
+VRakesh Pradhan
+p6123
+tp6124
+a(VRight-Back
+p6125
+VNovin Gurung
+p6126
+tp6127
+a(VDefensive Midfield
+p6128
+VDaniel Odafin
+p6129
+tp6130
+a(VRight Midfield
+p6131
+VRedeem Tlang
+p6132
+tp6133
+a(VAttacking Midfield
+p6134
+VSamuel Lalmuanpuia
+p6135
+tp6136
+a(VCentre-Forward
+p6137
+VSaihou Jagne
+p6138
+tp6139
+a(VCentre-Forward
+p6140
+VAbdoulaye Koffi
+p6141
+tp6142
+asS'SC East Bengal'
+p6143
+(lp6144
+(VGoalkeeper
+p6145
+VUbaid C.K.
+p6146
+tp6147
+a(VCentre-Back
+p6148
+VGurwinder Singh
+p6149
+tp6150
+a(VCentre-Back
+p6151
+VSalam Singh
+p6152
+tp6153
+a(VLeft-Back
+p6154
+VLalramchullova
+p6155
+tp6156
+a(VRight-Back
+p6157
+VMehtab Singh
+p6158
+tp6159
+a(VCentral Midfield
+p6160
+VKatsumi Yusa
+p6161
+tp6162
+a(VCentral Midfield
+p6163
+VCavin Lobo
+p6164
+tp6165
+a(VRight Midfield
+p6166
+VBrandon Vanlalremdika
+p6167
+tp6168
+a(VLeft Midfield
+p6169
+VAnsumana Kromah
+p6170
+tp6171
+a(VAttacking Midfield
+p6172
+VMahmoud Al Amenah
+p6173
+tp6174
+a(VCentre-Forward
+p6175
+VDudu
+p6176
+tp6177
+assI88
+(dp6178
+S'NEROCA FC'
+p6179
+(lp6180
+(VGoalkeeper
+p6181
+VLalit Thapa
+p6182
+tp6183
+a(VCentre-Back
+p6184
+VVarney K Kallon
+p6185
+tp6186
+a(VCentre-Back
+p6187
+VGovin Singh
+p6188
+tp6189
+a(VLeft-Back
+p6190
+VTondonba Singh
+p6191
+tp6192
+a(VRight-Back
+p6193
+VAshok Singh
+p6194
+tp6195
+a(VDefensive Midfield
+p6196
+VThangjam Singh
+p6197
+tp6198
+a(VCentral Midfield
+p6199
+VFabien Vorbe
+p6200
+tp6201
+a(VCentral Midfield
+p6202
+VNick Ward
+p6203
+tp6204
+a(VRight Midfield
+p6205
+VYumnam Singh
+p6206
+tp6207
+a(VLeft Midfield
+p6208
+VSubash Singh
+p6209
+tp6210
+a(VCentre-Forward
+p6211
+VFelix Chidi Odili
+p6212
+tp6213
+asS'SC East Bengal'
+p6214
+(lp6215
+(VGoalkeeper
+p6216
+VUbaid C.K.
+p6217
+tp6218
+a(VCentre-Back
+p6219
+VArnab Mondal
+p6220
+tp6221
+a(VCentre-Back
+p6222
+VEduardo
+p6223
+tp6224
+a(VLeft-Back
+p6225
+VLalramchullova
+p6226
+tp6227
+a(VRight-Back
+p6228
+VSamad Mallick
+p6229
+tp6230
+a(VCentral Midfield
+p6231
+VMohammed Rafique
+p6232
+tp6233
+a(VCentral Midfield
+p6234
+VMahmoud Al Amenah
+p6235
+tp6236
+a(VRight Midfield
+p6237
+VKatsumi Yusa
+p6238
+tp6239
+a(VLeft Midfield
+p6240
+VYami Longvah
+p6241
+tp6242
+a(VCentre-Forward
+p6243
+VDudu
+p6244
+tp6245
+a(VCentre-Forward
+p6246
+VJoby Justin
+p6247
+tp6248
+assI89
+(dp6249
+S'Ch. Brothers'
+p6250
+(lp6251
+(VGoalkeeper
+p6252
+VRicardo Cardozo
+p6253
+tp6254
+a(VCentre-Back
+p6255
+VMonday Osagie
+p6256
+tp6257
+a(VCentre-Back
+p6258
+VHussein El Dor
+p6259
+tp6260
+a(VLeft-Back
+p6261
+VDenechandra Meitei
+p6262
+tp6263
+a(VRight-Back
+p6264
+VIsrail Gurung
+p6265
+tp6266
+a(VCentral Midfield
+p6267
+VRichard Costa
+p6268
+tp6269
+a(VCentral Midfield
+p6270
+VDawda Ceesay
+p6271
+tp6272
+a(VRight Midfield
+p6273
+VBritto PM
+p6274
+tp6275
+a(VLeft Midfield
+p6276
+VOnyeama Okechukwu
+p6277
+tp6278
+a(VCentre-Forward
+p6279
+VVisalie Mezhu
+p6280
+tp6281
+a(VCentre-Forward
+p6282
+VWillis Plaza
+p6283
+tp6284
+asS'Minerva Academy'
+p6285
+(lp6286
+(VGoalkeeper
+p6287
+VKiran Chemjong
+p6288
+tp6289
+a(VCentre-Back
+p6290
+VSukhdev Singh
+p6291
+tp6292
+a(VCentre-Back
+p6293
+VGuy Eric Dano
+p6294
+tp6295
+a(VLeft-Back
+p6296
+VAkashdeep Singh
+p6297
+tp6298
+a(VRight-Back
+p6299
+VKamalpreet Singh
+p6300
+tp6301
+a(VDefensive Midfield
+p6302
+VAmandeep Singh
+p6303
+tp6304
+a(VDefensive Midfield
+p6305
+VKassim Aidara
+p6306
+tp6307
+a(VRight Midfield
+p6308
+VAakash Sangwan
+p6309
+tp6310
+a(VLeft Midfield
+p6311
+VChencho Gyeltshen
+p6312
+tp6313
+a(VAttacking Midfield
+p6314
+VWilliam Opoku
+p6315
+tp6316
+a(VCentre-Forward
+p6317
+VGirik Khosla
+p6318
+tp6319
+assI90
+(dp6320
+S'Mohun Bagan'
+p6321
+(lp6322
+(VGoalkeeper
+p6323
+VShilton Paul
+p6324
+tp6325
+a(VCentre-Back
+p6326
+VKingsley Obumneme
+p6327
+tp6328
+a(VCentre-Back
+p6329
+VRana Gharami
+p6330
+tp6331
+a(VLeft-Back
+p6332
+VGurjinder Kumar
+p6333
+tp6334
+a(VRight-Back
+p6335
+VArijit Bagui
+p6336
+tp6337
+a(VCentral Midfield
+p6338
+VYuta Kinowaki
+p6339
+tp6340
+a(VCentral Midfield
+p6341
+VCameron Watson
+p6342
+tp6343
+a(VRight Midfield
+p6344
+VNikhil Kadam
+p6345
+tp6346
+a(VLeft Midfield
+p6347
+VAzharuddin Mallick
+p6348
+tp6349
+a(VCentre-Forward
+p6350
+VAser Pierrick Dipanda
+p6351
+tp6352
+a(VCentre-Forward
+p6353
+VAkram Moghrabi
+p6354
+tp6355
+asS'Gokulam FC'
+p6356
+(lp6357
+(VGoalkeeper
+p6358
+VNikhil Bernard
+p6359
+tp6360
+a(VCentre-Back
+p6361
+VEmmanuel Chigozie
+p6362
+tp6363
+a(VCentre-Back
+p6364
+VDaniel Addo
+p6365
+tp6366
+a(VLeft-Back
+p6367
+VArjun Jayaraj
+p6368
+tp6369
+a(VRight-Back
+p6370
+VProvat Lakra
+p6371
+tp6372
+a(VDefensive Midfield
+p6373
+VMusa Mudde
+p6374
+tp6375
+a(VDefensive Midfield
+p6376
+VMuhammed Rashid
+p6377
+tp6378
+a(VRight Midfield
+p6379
+VMohammed Irshad
+p6380
+tp6381
+a(VLeft Midfield
+p6382
+VSalman K
+p6383
+tp6384
+a(VAttacking Midfield
+p6385
+VMahmood Al-Ajmi
+p6386
+tp6387
+a(VCentre-Forward
+p6388
+VHenry Kisekka
+p6389
+tp6390
+ass.
